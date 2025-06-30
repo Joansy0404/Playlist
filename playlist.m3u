@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on 2025-06-30 19:22:10 UTC
+# Generated on 2025-06-30 19:35:08 UTC
 # Total channels: 5529
 
 #EXTINF:-1 group-title="🇦🇷 Argentina" tvg-logo="https://canvas-lb.tubitv.com/opts/dT2X-M7b4_XRcw==/620cc48a-a6d9-439e-8b38-f857a4ab2630/CHgQeDoFMS4xLjZAAQ==" tvg-id="682057",Are We There Yet
@@ -5546,6 +5546,8 @@ https://jmp2.uk/plu-656df2849d5ac400083be647.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63894c1965b848bf2c8a7800.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇮🇳 India" tvg-logo="https://images.pluto.tv/channels/5f4d878d3d19b30007d2e782/colorLogoPNG.png" tvg-id="5f4d878d3d19b30007d2e782",70s Cinema
 https://jmp2.uk/plu-5f4d878d3d19b30007d2e782.m3u8
+#EXTINF:-1 group-title="🇮🇳 India" tvg-logo="https://i.imgur.com/YomkvVa.png" tvg-id="CINEMAX.HD.my",Astro Cinemax
+https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇮🇳 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Logo_bein_sports_1.png/1200px-Logo_bein_sports_1.png" tvg-id="beIN.SPORTS.(HD).sg",Bein Sports 1
 https://ott.udptv.org/stream/astro/beinsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇮🇳 India" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" tvg-id="beIN.SPORTS.2.(HD).sg",Bein Sports 2
@@ -6180,6 +6182,8 @@ http://143.244.60.30/GOLF_CHANNEL/index.m3u8
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MTM1MGFmMDIzODI3LTk3Y2EtMDZhNC0yNTA3LWY0M2Q4NmE0/master.m3u8?md5=p2EPXpfKoVW6zLxk59g5Ig&expires=1751335613&t=1751292413
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/BuddyChewChew/My-Streams/blob/main/Logos/-----.png?raw=true" tvg-id="Blank.Dummy.us",-
 https://jmp2.uk/str-5747.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBC.America.-.East.us",--- BBC AMERICA (WEST) 1
+http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.CA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true"  radio="false",getTV
 https://fl3.moveonjoy.com/GET_TV/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.CA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" ,ABC (KABC)
@@ -6235,8 +6239,6 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS (WCBS) 2
 http://143.244.60.30/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WABC)
-http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true" ,ABC (WABC)
 https://ft.fbcdntv247.cfd/memfs/196a3d53-fe48-484c-b267-f3f326f8c9e7_output_0.m3u8
@@ -6248,8 +6250,6 @@ https://ott.udptv.com/stream/fubo/cbs/master.m3u8?u=discord.gg/civ3&p=fb3f8f9969
 https://ft.fbcdntv247.cfd/memfs/f52160c3-ffe2-4eea-9315-b47c57c06dad_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,FOXNY USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium768%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (WNYW) 1
-http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (WNYW) 2
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/my-network-tv-us.png?raw=true" ,MY9TV USA
@@ -6266,11 +6266,13 @@ https://ott.udptv.org/stream/udptvus/wabc/master.m3u8?u=discord.gg/civ3&p=fb3f8f
 https://a1xs.vip/300010
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://media.nbcnewyork.com/2024/08/WNBC_station_logo_dark_e73822.png?fit=280%2C58&quality=85&strip=all&w=193&h=40" ,NBC (WNBC)
 https://ft.fbcdntv247.cfd/memfs/0f866e96-e1b8-481d-bd6d-64949cb9f34d_output_0.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png"  radio="false",FOX (WNYW)
+http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW) 2
 http://143.244.60.30/FOX_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-new-york-a.svg" ,FOX (WNYW)
 https://ft.fbcdntv247.cfd/memfs/868cfc8b-f31c-40b5-bc19-bb2f8434c869_output_0.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-name="CBS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="Buddy Chew TV",CBS NEWS
+#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-name="CBS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" ,CBS NEWS
 http://fl1.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.OH.us" tvg-logo="https://i.imgur.com/3BUnPYf.png"  radio="false",NBC
 https://a1xs.vip/300015
@@ -6286,6 +6288,8 @@ http://cord-cutter.net:8080/hq3y4G/234247/121149
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium277%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States",.SC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WOLO)
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States",.SC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true"  radio="false",ABC 25 Columbia
+http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.TX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" ,Unimas
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium133%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",0,140,207_.jpg"  radio="false",Happy Gilmore (1996)
@@ -6540,10 +6544,10 @@ https://cdn.baddiehub.com/hnaw.mp4
 https://jmp2.uk/sam-USBA1600001XM.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" tvg-id="AMC.-.Eastern.Feed.us",AMC
 https://ft.fbcdntv247.cfd/memfs/c21d4225-12e5-4178-af0e-33711499d86e_output_0.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-id="AMC.-.Eastern.Feed.us",AMC
+http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" tvg-id="AMC.-.Eastern.Feed.us",AMC
 https://ott.udptv.org/stream/udptvus/amc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-id="AMC.-.Eastern.Feed.us",AMC 1
-http://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-id="AMC.-.Eastern.Feed.us",AMC 2
 http://23.237.104.106:8080/USA_AMC/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/amc-us.png?raw=true" tvg-id="amc-eastern-feed",AMC Eastern Feed HD [HD]
@@ -6578,10 +6582,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6467891c73e5
 https://jmp2.uk/plu-65492fc7056b9700088560b5.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD42000250Q_20240611T050325SQUARE.png" tvg-id="USBD42000250Q",American Crimes
 https://jmp2.uk/sam-USBD42000250Q.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-id="American.Heroes.Channel.us",American Heroes Channel
+http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/ahc.png" tvg-id="americanheroeschannel.us",American Heroes Channel
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/208
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18284_dark_360w_270h.png" tvg-id="American.Heroes.Channel.us",AMERICAN HEROES CHANNEL 1
-http://fl3.moveonjoy.com/American_Heroes_Channel/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" tvg-id="american-heroes-channel",American Heroes Channel HD [HD]
 https://tvpass.org/live/AmericanHeroesChannel/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/american-heroes-channel-us.png?raw=true" tvg-id="american-heroes-channel",American Heroes Channel SD
@@ -6660,14 +6664,12 @@ https://jmp2.uk/plu-65e9ceb98145cb00084d64bc.m3u8
 https://ott.udptv.net/stream/iptv/asianfoodnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://provider-static.plex.tv/e/epg/channels/logos/gracenote/e1e8bf91cc2064e36aaf0a596d6a641d.png" tvg-id="5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767",AsianCrush
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5eea605474085f0040ddc767.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-id="ASPiRE.TV.us",ASPIRE 1
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-id="ASPiRE.TV.us",Aspire
 http://fl3.moveonjoy.com/Aspire/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/aspire-tv-us.png" tvg-id="ASPiRE.TV.us",ASPIRE 2
 http://143.244.60.30/Aspire/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/mqydFBD/aspire.png" tvg-id="aspiretv.us",Aspire TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/2156
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/hong-kong/cinemax-hk.png?raw=true" tvg-id="Movie.Dummy.us",ASTRO CINEMAX
-https://ott.udptv.org/stream/astro/astrocinemax/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Astro_Sports_Plus_1_%282024%29.png" tvg-id="Astro.Sports.Plus.my",Astro Sports Plus
 https://ott.udptv.org/stream/astro/astrosportsplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000138Y_20240520T221410SQUARE.png" tvg-id="USBD25000138Y",At Home with Family Handyman
@@ -6716,9 +6718,7 @@ https://fl3.moveonjoy.com/BBC_AMERICA/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/206
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-hz-us.png?raw=true" tvg-id="BBC.America.-.East.us",BBC America (BBCA)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium305%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBC.America.-.East.us",BBC AMERICA 1
-http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBC.America.-.East.us",BBC AMERICA 2
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBC.America.-.East.us",BBC AMERICA (WEST) 2
 http://143.244.60.30/BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bbc-america-us.png?raw=true" tvg-id="bbc-america-east",BBC America East HD [HD]
 https://tvpass.org/live/BBCAmericaEast/hd
@@ -6812,10 +6812,10 @@ http://fl2.moveonjoy.com/BET_HER/index.m3u8
 http://fl1.moveonjoy.com/BET_HER/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14897_dark_360w_270h.png" tvg-id="BET.Her.us",BET HER 2
 http://143.244.60.30/BET_HER/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-id="BET.Jams.(BETJ).us",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/betjams.png" tvg-id="BET.Jams.(BETJ).us",BET Jams
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/950
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-id="BET.Jams.(BETJ).us",BET JAMS 1
-http://fl3.moveonjoy.com/BET_Jams/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bet-jams-us.png?raw=true" tvg-id="BET.Jams.(BETJ).us",BET JAMS 2
 http://143.244.60.30/BET_Jams/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC450000130_20241112T000954SQUARE.png" tvg-id="USBC450000130",BET Pluto TV
@@ -6848,10 +6848,10 @@ https://ft.fbcdntv247.cfd/memfs/a9fac2ae-4feb-4765-aded-46b61277a09b_output_0.m3
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",BIG TEN Network (BTN USA)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium397%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",BIG TEN NETWORK 1
-http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",BIG TEN NETWORK 2
 http://143.244.60.30/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",Big Ten Network HD [HD]
+http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="Basketball.Dummy.us",BIG3 (3x3) : Houston Rig Hands vs LA Riot - Sport klub 3 Croatia
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium103%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMHxPcmlnaW49aHR0cHM6Ly9mb3JjZWR0b3BsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mb3JjZWR0b3BsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOS4wfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTM5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTM5LjA%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Basketball-2.png" tvg-id="Basketball.Dummy.us",BIG3 Basketball : Dallas Power vs Detroit Amplifiers - VICE TV USA
@@ -6908,7 +6908,7 @@ http://fl3.moveonjoy.com/BOOMERANG/index.m3u8
 http://143.244.60.30/BOOMERANG/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/boomerang-us.png?raw=true" tvg-id="Boomerang.us",Boomerang US
 https://ott.udptv.org/stream/udptvus/boomerang/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-id="BounceTV.us",BOUNCE 1
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-id="Bounce.TV.us",Bounce
 http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true" tvg-id="BounceTV.us",BOUNCE 2
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
@@ -6918,8 +6918,6 @@ https://jmp2.uk/sam-USBD300008G1.m3u8
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Boyz.n.The.Hood.1991.1080p.BRrip.x264.YIFY.mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC240001823_20241014T232222SQUARE.png" tvg-id="USBC240001823",Brat TV
 https://jmp2.uk/sam-USBC240001823.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO
-http://143.244.60.30/BRAVO/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" tvg-id="Bravo.USA.-.Eastern.Feed.us",Bravo
 https://ft.fbcdntv247.cfd/memfs/3427392c-1304-44d6-a80a-680111fff048_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO
@@ -6930,6 +6928,8 @@ http://fl2.moveonjoy.com/BRAVO/index.m3u8
 https://i.mjh.nz/.r/bravo-plus1.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO 1
 http://fl1.moveonjoy.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO 2
+http://143.244.60.30/BRAVO/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" tvg-id="Bravo.USA.-.Eastern.Feed.us",Bravo USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium307%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bravo-us.png?raw=true" tvg-id="bravo-usa-eastern-feed",Bravo USA Eastern Feed HD [HD]
@@ -6948,18 +6948,16 @@ https://jmp2.uk/sam-USBD17000040J.m3u8
 https://jmp2.uk/sam-US3700007E4.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://images.pluto.tv/channels/62fb9c4539183b00076a3875/colorLogoPNG.png" tvg-id="62fb9c4539183b00076a3875",Busted at the Border
 https://jmp2.uk/plu-62fb9c4539183b00076a3875.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-id="BUZZR.us",BUZZR
-http://143.244.60.30/Buzzr/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-id="BUZZR.us",Buzzr
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD700021WG_20241105T024154SQUARE.png" tvg-id="USBD700021WG",BUZZR
 https://jmp2.uk/sam-USBD700021WG.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-id="Buzzr.TV.us",BUZZR 1
-http://fl3.moveonjoy.com/Buzzr/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-id="Buzzr.TV.us",BUZZR 2
+http://143.244.60.30/Buzzr/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/buzzr-us.png?raw=true" tvg-id="buzzertv.us",Buzzr TV
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1182
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/c-span-1-us.png?raw=true" tvg-id="C-SPAN.us",C SPAN 1
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium750%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-id="C-SPAN.us",C-SPAN
-http://143.244.60.30/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-id="C-SPAN.us",C-SPAN
 https://fl3.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" tvg-id="cspan.us",C-SPAN
@@ -6968,6 +6966,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1184
 http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" tvg-id="cspan2.us",C-SPAN 2
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1185
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-id="C-SPAN.us",C-SPAN 2
+http://143.244.60.30/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/cspan120.png" tvg-id="cspan3.us",C-SPAN 3
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1186
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD50000048H_20240520T214750SQUARE.png" tvg-id="USBD50000048H",Caillou
@@ -6992,8 +6992,6 @@ https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
 https://a1xs.vip/2501
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20241112T000610SQUARE.png" tvg-id="USAJ3504545A",Cars
 https://jmp2.uk/sam-USAJ3504545A.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK
-http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",Cartoon Network
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium339%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",Cartoon Network
@@ -7004,6 +7002,8 @@ http://user.scalecdn.co:8080/live/26725074/92867131/3711.ts
 http://user.scalecdn.co:8080/live/26725074/92867131/2653.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK 1
 http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK 2
+http://143.244.60.30/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/draQT6x.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",Cartoon Network FHD [FHD]
 https://a1xs.vip/300032
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" tvg-id="cartoon-network-usa-eastern-feed",Cartoon Network USA Eastern Feed HD [HD]
@@ -7070,8 +7070,6 @@ https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 https://jmp2.uk/sam-USBB4800005VO.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" tvg-id="plex.tv.CBS.Sports.HQ.plex",CBS Sports HQ FHD [FHD]
 https://a1xs.vip/4000007
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-id="CBS.Sports.Network.USA.us",CBS SPORTS NETWORK
-http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" tvg-id="CBS.Sports.Network.USA.us",CBS Sports Network
 https://a1xs.vip/4000008
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-id="CBS.Sports.Network.USA.us",CBS Sports Network
@@ -7082,6 +7080,8 @@ https://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium308%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-id="CBS.Sports.Network.USA.us",CBS SPORTS NETWORK 1
 http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-id="CBS.Sports.Network.USA.us",CBS SPORTS NETWORK 2
+http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-id="cbs-sports-network-usa",CBS Sports Network USA HD [HD]
 https://tvpass.org/live/CBSSportsNetworkUSA/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-id="cbs-sports-network-usa",CBS Sports Network USA SD
@@ -7132,8 +7132,6 @@ https://jmp2.uk/sam-USBD2700005KL.m3u8
 https://jmp2.uk/sam-USBD2500022U5.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3800001E0_20250325T020215SQUARE.png" tvg-id="USBA3800001E0",Cine Romantico
 https://jmp2.uk/sam-USBA3800001E0.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX
-http://143.244.60.30/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-us.png?raw=true" tvg-id="Cinemax.-.Eastern.Feed.us",Cinemax
 https://ft.fbcdntv247.cfd/memfs/00fff1fa-6c4f-4459-af8e-cf05448c217c_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10120_h15_ab.png" tvg-id="Cinemax.-.Eastern.Feed.us",Cinemax
@@ -7144,14 +7142,18 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/1603
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1604
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX EAST 1
 http://fl1.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX EAST 2
+http://143.244.60.30/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX EAST 3
 http://fl1.moveonjoy.com/CINEMAX_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-id="MoreMax..Eastern.us",CINEMAX MOREMAX
-http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/2yRD8Xr/moremax.png" tvg-id="MoreMax..Eastern.us",Cinemax MoreMax
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1204
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-id="MoreMax..Eastern.us",CINEMAX MOREMAX
+http://23.237.104.106:8080/USA_MOREMAX/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/nmdC35C/moviemax.png" tvg-id="MovieMax.(Max.6).-.East.us",Cinemax MovieMax
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1605
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-id="OuterMax.east.us",CINEMAX OUTER MAX 2
+http://143.244.60.30/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/SrhyVSb/OuterMax.png" tvg-id="OuterMax.east.us",Cinemax OuterMax
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1606
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-id="OuterMax.east.us",CINEMAX OUTERMAX 1
@@ -9600,8 +9602,6 @@ http://143.244.60.30/OUTDOOR_CHANNEL/index.m3u8
 https://tvpass.org/live/OutdoorChannel/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/outdoor-channel-us.png?raw=true" tvg-id="outdoor-channel-us",Outdoor Channel US SD
 https://tvpass.org/live/OutdoorChannel/sd
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-id="OuterMax.east.us",OUTER MAX
-http://143.244.60.30/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-outermax-us.png?raw=true" tvg-id="OuterMax.east.us",OUTER MAX
 https://fl3.moveonjoy.com/OUTER_MAX/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200007FE_20240611T050306SQUARE.png" tvg-id="USBD1200007FE",OuterSphere
