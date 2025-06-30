@@ -1,5 +1,5 @@
 #EXTM3U
-# Generated on 2025-06-30 16:13:17 UTC
+# Generated on 2025-06-30 16:13:26 UTC
 # Total channels: 5076
 
 #EXTINF:-1 group-title="🇦🇷 Argentina" tvg-logo="https://canvas-lb.tubitv.com/opts/dT2X-M7b4_XRcw==/620cc48a-a6d9-439e-8b38-f857a4ab2630/CHgQeDoFMS4xLjZAAQ==" tvg-id="682057",Are We There Yet
@@ -2530,6 +2530,10 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-64f101b1c4b3
 https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://canvas-lb.tubitv.com/opts/pzodz9gag61olg==/eace1598-de1c-499a-8005-405d5cb5adb5/CHgQeDoFMS4xLjZAAQ==" tvg-id="400000119",Big 12 Studios
 http://drewlive24.duckdns.org:4042/tubi/watch/400000119
+#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="big-ten-network",Big Ten Network HD [HD]
+https://tvpass.org/live/BTN/hd
+#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="big-ten-network",Big Ten Network SD
+https://tvpass.org/live/BTN/sd
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c4191909-02c9-4043-9a9a-9344a83653e4/Bigtime_Light_Mode_Logo.png" tvg-id="5e20b730f2f8d5003d739db7-6348969190b96ef5e0eb327a",Bigtime - Películas Gratis
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6348969190b96ef5e0eb327a.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://images.pluto.tv/channels/60f85644a9493e0007a1f035/colorLogoPNG.png" tvg-id="60f85644a9493e0007a1f035",Black Classics
@@ -3754,6 +3758,8 @@ https://jmp2.uk/plu-58d947b9e420d8656ee101ab.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a2d97c94b6a49cb5054d77.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://images.pluto.tv/channels/65367e914f123d000877d021/colorLogoPNG.png" tvg-id="65367e914f123d000877d021",River Monsters
 https://jmp2.uk/plu-65367e914f123d000877d021.m3u8
+#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://i.imgur.com/bnrQIgB.png" tvg-id="Rock.Action.id",Rock Action
+http://ott.udptv.net/stream/iptv/rockaction/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://images.pluto.tv/channels/62fb6cd97b90e60007bc318a/colorLogoPNG.png" tvg-id="62fb6cd97b90e60007bc318a",Romance 365
 https://jmp2.uk/plu-62fb6cd97b90e60007bc318a.m3u8
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://images.pluto.tv/channels/63fe2ec4dff38e000835f786/colorLogoPNG.png" tvg-id="63fe2ec4dff38e000835f786",Rookie Blue
@@ -6398,12 +6404,8 @@ https://ft.fbcdntv247.cfd/memfs/a9fac2ae-4feb-4765-aded-46b61277a09b_output_0.m3
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",BIG TEN Network (BTN USA)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium397%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="big-ten-network",Big Ten Network HD [HD]
-https://tvpass.org/live/BTN/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",Big Ten Network HD [HD]
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="big-ten-network",Big Ten Network SD
-https://tvpass.org/live/BTN/sd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD12000183X_20240520T220037SQUARE.png" tvg-id="USBD12000183X",Billiard TV
 https://jmp2.uk/sam-USBD12000183X.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BNDMxMDVkYzMtY2IyNS00NmIyLTkzYmEtNzhmOTBlM2NhNjUyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-id="Movie.Dummy.us",Billy & Mandy's Big Boogey Adventure (2007)
@@ -9052,8 +9054,6 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/45844
 https://jmp2.uk/sam-USAJ3504706A.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US700002ZB_20250325T015256SQUARE.png" tvg-id="US700002ZB",Road Renegades
 https://jmp2.uk/sam-US700002ZB.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/bnrQIgB.png" tvg-id="Rock.Action.id",Rock Action
-http://ott.udptv.net/stream/iptv/rockaction/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTg3MTk4NzQ0NV5BMl5BanBnXkFtZTcwNjM0OTc5MQ@@._V1_.jpg" tvg-id="Movie.Dummy.us",Role Models (2008)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Role.Models.2008.1080p.BluRay.x265-RARBG.mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTI2NTA4NjIwNl5BMl5BanBnXkFtZTYwNDQ3MzI3._V1_FMjpg_UX1000_.jpg" tvg-id="Movie.Dummy.us",Roll Bounce (2005)
