@@ -1,6 +1,6 @@
 #EXTM3U
-# Generated on 2025-06-30 17:00:42 UTC
-# Total channels: 71
+# Generated on 2025-06-30 17:11:38 UTC
+# Total channels: 77
 
 #EXTINF:-1 group-title="🇺🇸 United States",.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true",CW (KYOU)
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
@@ -44,6 +44,8 @@ http://143.244.60.30/NBC_EAST/index.m3u8
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW) 2
 http://143.244.60.30/FOX_EAST/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-name="CBS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" group-title="Buddy Chew TV",CBS NEWS
+http://fl1.moveonjoy.com/CBS_News/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States",.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WPVI)
 http://cord-cutter.net:8080/hq3y4G/234247/121149
 #EXTINF:-1 group-title="🇺🇸 United States",.SC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WOLO)
@@ -128,16 +130,26 @@ http://fl3.moveonjoy.com/BOUNCE_TV/index.m3u8
 http://23.237.104.106:8080/USA_BOUNCE/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO
 http://143.244.60.30/BRAVO/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png" tvg-id="Bravo.USA.-.Eastern.Feed.us",BRAVO 1
+http://fl1.moveonjoy.com/BRAVO/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-id="BUZZR.us",BUZZR
 http://143.244.60.30/Buzzr/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/buzzr-us.png" tvg-id="Buzzr.TV.us",BUZZR 1
+http://fl3.moveonjoy.com/Buzzr/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-id="C-SPAN.us",C-SPAN
 http://143.244.60.30/C-SPAN/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10161_dark_360w_270h.png" tvg-id="C-SPAN.us",C-SPAN 1
+http://fl1.moveonjoy.com/C-SPAN/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK
 http://143.244.60.30/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12131_dark_360w_270h.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",CARTOON NETWORK 1
+http://fl1.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-id="WSBK.(TV-38).Boston.us",CBS (WCBS) 1
 http://fl1.moveonjoy.com/CBSEAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-id="CBS.Sports.Network.USA.us",CBS SPORTS NETWORK
 http://143.244.60.30/CBS_SPORTS_NETWORK/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png" tvg-id="CBS.Sports.Network.USA.us",CBS SPORTS NETWORK 1
+http://fl1.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cinemax-us.png" tvg-id="Cinemax.-.Eastern.Feed.us",CINEMAX
 http://143.244.60.30/CINEMAX_EAST/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cinemax-moremax-us.png?raw=true" tvg-id="MoreMax..Eastern.us",CINEMAX MOREMAX
