@@ -1,6 +1,6 @@
 #EXTM3U
 
-# Generated: 2025-07-01 13:41:32
+# Generated: 2025-07-01 13:51:17
 # Channels: 5528
 # Groups: 15
 
@@ -4391,6 +4391,8 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a1ae9e7764
 https://jmp2.uk/plu-60fb3087fbbc120007fc46be.m3u8
 #EXTINF:-1 tvg-name="She Wrote" group-title="🇪🇸 Spain",She Wrote
 https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
+#EXTINF:-1 tvg-name="She Wrote" group-title="🇪🇸 Spain",She Wrote
+https://jmp2.uk/sam-US1800001D1.m3u8
 #EXTINF:-1 tvg-id="400000064" tvg-name="Silent Witness and New Tricks" tvg-logo="https://canvas-lb.tubitv.com/opts/Nbi04He3-VcD9g==/2601f920-7f1b-4a8f-a583-00b77ede189e/CHgQeDoFMS4xLjZAAQ==" group-title="🇪🇸 Spain",Silent Witness and New Tricks
 http://drewlive24.duckdns.org:4042/tubi/watch/400000064
 #EXTINF:-1 tvg-id="5e20b730f2f8d5003d739db7-656235425dbccec83a87b645" tvg-name="Silent WitnessNew Tricks" tvg-logo="https://provider-static.plex.tv/epg/cms/production/877f1e84-0244-4a3f-ada4-fe7c2e41df9b/SILENT_WITNESS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer__1_.png" group-title="🇪🇸 Spain",Silent WitnessNew Tricks
@@ -9973,8 +9975,6 @@ https://jmp2.uk/sam-USBC1000004G8.m3u8
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Shark.Tale.2004.1080p.BluRay.H264.AAC-RARBG.mp4
 #EXTINF:-1 tvg-id="US2200006FS" tvg-name="Shaun the Sheep" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200006FS_20240924T011019SQUARE.png" group-title="🇺🇸 United States",Shaun the Sheep
 https://jmp2.uk/sam-US2200006FS.m3u8
-#EXTINF:-1 tvg-name="She Wrote" group-title="🇺🇸 United States",She Wrote
-https://jmp2.uk/sam-US1800001D1.m3u8
 #EXTINF:-1 tvg-id="USBD1200021JM" tvg-name="Shout TV" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250304T041448SQUARE.png" group-title="🇺🇸 United States",Shout TV
 https://jmp2.uk/sam-USBD1200021JM.m3u8
 #EXTINF:-1 tvg-id="Movie.Dummy.us" tvg-name="Showgirls (1995)" group-title="🇺🇸 United States",Showgirls (1995)
