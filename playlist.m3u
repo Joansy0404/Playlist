@@ -723,10 +723,10 @@ http://96.45.207.18:8881/channel/n7b0af04a/index.m3u8?q=1735600584362
 http://ott.udptv.net/stream/iptv/cartoonnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/8mfFj4h.png" tvg-id="Cartoon.Network.HD.my",Cartoon Network MY
 https://ott.udptv.org/stream/astro/astrocartoonnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/8mfFj4h.png" tvg-id="Cartoon.Netwrk.uk",Cartoon Network UK
-https://ott.udptv.com/stream/skyuk/cartoonnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://pixvid.org/images/2025/02/27/cartoon-network.png" tvg-id="Cartoon.Netwrk.uk",Cartoon Network UK
 https://a1xs.vip/1000050
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/8mfFj4h.png" tvg-id="Cartoon.Netwrk.uk",Cartoon Network UK
+https://ott.udptv.com/stream/skyuk/cartoonnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoonito-us.png?raw=true" tvg-id="Cartoonito.(HD).sg",Cartoonito
 https://ott.udptv.net/stream/iptv/boomerang/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://media.starlite.best/casa.ca.png" tvg-id="CASA.ca",CASA
@@ -1851,6 +1851,8 @@ http://drewlive24.duckdns.org:4042/tubi/watch/692115
 https://a1xs.vip/loupe4k
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://images.pluto.tv/channels/5d51ddf0369acdb278dfb05e/colorLogoPNG.png" tvg-id="5d51ddf0369acdb278dfb05e",Love & Hip Hop
 https://jmp2.uk/plu-5d51ddf0369acdb278dfb05e.m3u8
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" tvg-id="Love.Nature.ca",Love Nature
+https://a1xs.vip/lovent4k
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-id="Love.Nature.ca",LOVE NATURE
 http://fl1.moveonjoy.com/LOVE_NATURE/index.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://media.starlite.best/love.nature.ca.png" tvg-id="Love.Nature.ca",Love Nature
@@ -1863,12 +1865,10 @@ https://jmp2.uk/plu-66df8a29b25d2b0008fc5fe0.m3u8
 http://drewlive24.duckdns.org:4042/tubi/watch/700418
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/love-nature-uk.png?raw=true" tvg-id="Love.Nature.my",Love Nature
 https://ott.udptv.org/stream/astro/lovenature/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-id="Love.Nature.ca",LOVE NATURE
-http://143.244.60.30/LOVE_NATURE/index.m3u8
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.ibb.co/SdSKhsj/love-nature-4k.png" tvg-id="Love.Nature.ca",Love Nature
-https://a1xs.vip/lovent4k
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/love-nature-4k-uk.png?raw=true" tvg-id="Love.Nature.my",Love Nature
 https://ott.udptv.org/stream/astro/lovenature4k/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/love-nature-4k-ca.png" tvg-id="Love.Nature.ca",LOVE NATURE
+http://143.244.60.30/LOVE_NATURE/index.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://provider-static.plex.tv/epg/cms/production/2cdf51b9-c535-4795-836d-ec1e97b124e9/PlexTV_LovePets_Logos-Primary-ForDarkBG_1500x1000_-_Rashmi_Palvannan.png" tvg-id="5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3",Love Pets
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-63fe7d7eb6312779f56504d3.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://images.pluto.tv/channels/65265dada6c3830008942a0a/colorLogoPNG.png" tvg-id="65265dada6c3830008942a0a",Love Pets
@@ -2721,52 +2721,52 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5ef11485d33a
 https://tvpass.org/live/sportsnet-east/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-sne-ca.png?raw=true" tvg-id="sportsnet-east",Sportsnet (East)
 https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/8YNVKqC.png" tvg-id="Sportsnet.360.ca",Sportsnet 360
+https://a1xs.vip/6000014
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-hd-ca.png?raw=true" tvg-id="Sportsnet.360.ca",Sportsnet 360
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium409%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://media.starlite.best/sportsnet.360.ca.png" tvg-id="sportsnet.360.ca",Sportsnet 360
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228742.ts
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" tvg-id="Sportsnet.360.ca",Sportsnet 360
-https://ott.udptv.net/stream/iptv/sportsnet360/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/8YNVKqC.png" tvg-id="Sportsnet.360.ca",Sportsnet 360
-https://a1xs.vip/6000014
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-ca.png?raw=true" tvg-id="sportsnet-360",Sportsnet 360
 https://tvpass.org/live/sportsnet-360/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-360-ca.png?raw=true" tvg-id="sportsnet-360",Sportsnet 360
 https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-360-ca.png" tvg-id="Sportsnet.360.ca",Sportsnet 360
+https://ott.udptv.net/stream/iptv/sportsnet360/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-east-hd-ca.png?raw=true" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca",Sportsnet East
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium408%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://media.starlite.best/sportsnet.east.ca.png" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca",Sportsnet East
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2045.ts
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-east-ca.png" tvg-id="Sportsnet.(East).-.Satellite/Digital.ca",Sportsnet East
 https://ott.udptv.net/stream/iptv/sportsneteast/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/SxBnZN0.png" tvg-id="Sportsnet.One.ca",Sportsnet One
+https://a1xs.vip/6000012
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-hd-ca.png?raw=true" tvg-id="Sportsnet.One.ca",Sportsnet One
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium411%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://media.starlite.best/sportsnet.one.ca.png" tvg-id="sportsnet.one.ca",Sportsnet One
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2046.ts
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" tvg-id="Sportsnet.One.ca",Sportsnet One
-https://ott.udptv.net/stream/iptv/sportsnetone/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/SxBnZN0.png" tvg-id="Sportsnet.One.ca",Sportsnet One
-https://a1xs.vip/6000012
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-ca.png?raw=true" tvg-id="sportsnet-one",Sportsnet One
 https://tvpass.org/live/sportsnet-one/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-one-ca.png?raw=true" tvg-id="sportsnet-one",Sportsnet One
 https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-one-ca.png" tvg-id="Sportsnet.One.ca",Sportsnet One
+https://ott.udptv.net/stream/iptv/sportsnetone/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/o6Ct6Ce.png" tvg-id="Sportsnet.(Ontario).ca",Sportsnet Ontario
+https://a1xs.vip/6000011
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-ontario-hd-ca.png?raw=true" tvg-id="Sportsnet.(Ontario).ca",Sportsnet Ontario
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium406%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://media.starlite.best/sportsnet.ontario.ca.png" tvg-id="Sportsnet.(Ontario).ca",Sportsnet Ontario
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228746.ts
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-ontario-ca.png" tvg-id="Sportsnet.(Ontario).ca",Sportsnet Ontario
 https://ott.udptv.net/stream/iptv/sportsnetontario/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/o6Ct6Ce.png" tvg-id="Sportsnet.(Ontario).ca",Sportsnet Ontario
-https://a1xs.vip/6000011
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://media.starlite.best/sportsnet.pacific.ca.png" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca",Sportsnet Pacific
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2049.ts
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-pacific-ca.png" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca",Sportsnet Pacific
-https://ott.udptv.net/stream/iptv/sportsnetpacific/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-pacific-ca.png?raw=true" tvg-id="sportsnet-pacific",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-pacific-ca.png?raw=true" tvg-id="sportsnet-pacific",Sportsnet Pacific
 https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-pacific-ca.png" tvg-id="Sportsnet.(Pacific).-.Satellite/Digital.ca",Sportsnet Pacific
+https://ott.udptv.net/stream/iptv/sportsnetpacific/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/GAlu4gn.png" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca",Sportsnet West
 https://a1xs.vip/6000015
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-west-hd-ca.png?raw=true" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca",Sportsnet West
@@ -2775,12 +2775,12 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 http://cdn1host.online:8080/live/kratorius/opLcbhlXaT/2050.ts
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-west-ca.png" tvg-id="Sportsnet.(West).-.Satellite/Digital.ca",Sportsnet West
 https://ott.udptv.net/stream/iptv/sportsnetwest/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/EJy8K7F.png" tvg-id="Sportsnet.World.ca",Sportsnet World
+https://a1xs.vip/6000013
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/sportsnet-world-hd-ca.png?raw=true" tvg-id="Sportsnet.World.ca",Sportsnet World
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium410%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/sportsnet-world-ca.png" tvg-id="Sportsnet.World.ca",Sportsnet World
 https://ott.udptv.net/stream/iptv/sportsnetworld/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/EJy8K7F.png" tvg-id="Sportsnet.World.ca",Sportsnet World
-https://a1xs.vip/6000013
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/CA14000121V_20250318T021316SQUARE.png" tvg-id="CA14000121V",Spring Vibes
 https://jmp2.uk/sam-CA14000121V.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://provider-static.plex.tv/epg/cms/production/1e0ec0d8-86fd-437e-a00a-2f7eb86a4418/stadium_dark_background_-_Janet_Feng.png" tvg-id="5e20b730f2f8d5003d739db7-5f6142d2fc6ce20041ec3c92",Stadium
@@ -3201,48 +3201,48 @@ https://jmp2.uk/sam-CA1400003R3.m3u8
 https://a1xs.vip/6000001
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-hd-ca.png?raw=true" tvg-id="TSN1.ca",TSN1
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium111%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" tvg-id="TSN1.ca",TSN1
-https://ott.udptv.net/stream/iptv/tsn1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-id="tsn1",TSN1
 https://tvpass.org/live/tsn1/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-1-ca.png?raw=true" tvg-id="tsn1",TSN1
 https://tvpass.org/live/tsn1/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-1-ca.png" tvg-id="TSN1.ca",TSN1
+https://ott.udptv.net/stream/iptv/tsn1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/iTSoxQW.png" tvg-id="TSN2.ca",TSN2
 https://a1xs.vip/6000002
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-hd-ca.png?raw=true" tvg-id="TSN2.ca",TSN2
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium112%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" tvg-id="TSN2.ca",TSN2
-https://ott.udptv.net/stream/iptv/tsn2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-id="tsn2",TSN2
 https://tvpass.org/live/tsn2/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-2-ca.png?raw=true" tvg-id="tsn2",TSN2
 https://tvpass.org/live/tsn2/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-2-ca.png" tvg-id="TSN2.ca",TSN2
+https://ott.udptv.net/stream/iptv/tsn2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/dPMY5Kc.png" tvg-id="TSN3.ca",TSN3
 https://a1xs.vip/6000003
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" tvg-id="TSN3.ca",TSN3
-https://ott.udptv.net/stream/iptv/tsn3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-id="tsn3",TSN3
 https://tvpass.org/live/tsn3/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-3-ca.png?raw=true" tvg-id="tsn3",TSN3
 https://tvpass.org/live/tsn3/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-3-ca.png" tvg-id="TSN3.ca",TSN3
+https://ott.udptv.net/stream/iptv/tsn3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/9EInDNq.png" tvg-id="TSN4.ca",TSN4
 https://a1xs.vip/6000004
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-hd-ca.png?raw=true" tvg-id="TSN4.ca",TSN4
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium114%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" tvg-id="TSN4.ca",TSN4
-https://ott.udptv.net/stream/iptv/tsn4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-id="tsn4",TSN4
 https://tvpass.org/live/tsn4/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-4-ca.png?raw=true" tvg-id="tsn4",TSN4
 https://tvpass.org/live/tsn4/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-4-ca.png" tvg-id="TSN4.ca",TSN4
+https://ott.udptv.net/stream/iptv/tsn4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://i.imgur.com/houBcHX.png" tvg-id="TSN5.ca",TSN5
 https://a1xs.vip/6000005
-#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" tvg-id="TSN5.ca",TSN5
-https://ott.udptv.net/stream/iptv/tsn5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-id="tsn5",TSN5
 https://tvpass.org/live/tsn5/hd
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/tsn-5-ca.png?raw=true" tvg-id="tsn5",TSN5
 https://tvpass.org/live/tsn5/sd
+#EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tsn-5-ca.png" tvg-id="TSN5.ca",TSN5
+https://ott.udptv.net/stream/iptv/tsn5/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://provider-static.plex.tv/epg/cms/production/293d1d81-5b4a-4437-bce3-0122ec04e028/Tu_discovery_logo_WHT_RDX.png" tvg-id="5e20b730f2f8d5003d739db7-671c2065128bc4121f80aef8",TuDiscovery
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-671c2065128bc4121f80aef8.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://images.pluto.tv/channels/673249ccc7626f0008c72076/colorLogoPNG.png" tvg-id="673249ccc7626f0008c72076",TuDiscovery
@@ -4117,30 +4117,30 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6434540bf43c
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NTkzNGQyNjA3OWRiLWU1NGEtYmZjNC05NDMxLWU4OTEyYmJm/master.m3u8
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/espn-au.png" tvg-id="ESPN.au",ESPN
 http://pinkpony.lol:80/live/Heather/Heather/250175.ts
-#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" tvg-id="sling/espn",ESPN
-https://ott.udptv.org/stream/udptvus/espn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" tvg-id="espn",ESPN
 https://tvpass.org/live/ESPN/hd
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" tvg-id="espn",ESPN
 https://tvpass.org/live/ESPN/sd
+#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-us.png" tvg-id="sling/espn",ESPN
+https://ott.udptv.org/stream/udptvus/espn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/australia/espn-2-au.png" tvg-id="ESPN2.au",ESPN 2
 http://pinkpony.lol:80/live/Heather/Heather/250176.ts
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-2-us.png" tvg-id="sling/espn2",ESPN 2
 https://ott.udptv.org/stream/udptvus/espn2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/500px-ESPNews.svg.png" tvg-id="sling/espnnews",ESPN News
-https://ott.udptv.org/stream/udptvus/espnnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" tvg-id="espn-news",ESPN News
 https://tvpass.org/live/ESPNews/hd
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" tvg-id="espn-news",ESPN News
 https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/500px-ESPNews.svg.png" tvg-id="sling/espnnews",ESPN News
+https://ott.udptv.org/stream/udptvus/espnnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/1200px-SEC_Network_logo.svg.png",ESPN SEC Network
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZTRhYTk4ODliNWFmLTFmNDgtY2U4NC1hYTUxLTA1Nzg4ZDU3/master.m3u8
-#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" tvg-id="sling/espnu",ESPN U
-https://ott.udptv.org/stream/udptvus/espnu/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" tvg-id="espn-u",ESPN U
 https://tvpass.org/live/ESPNU/hd
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-u-us.png?raw=true" tvg-id="espn-u",ESPN U
 https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/espn-u-us.png" tvg-id="sling/espnu",ESPN U
+https://ott.udptv.org/stream/udptvus/espnu/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/2560px-ESPN2_logo.svg.png",ESPN2
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NDU1YzcxM2M4NDQ5LWIyYWEtNmE4NC0xMzY0LWZlMWUxYTc3/master.m3u8
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" tvg-id="espn2",ESPN2
@@ -4613,12 +4613,12 @@ https://jmp2.uk/plu-5fb5844bf5514d0007945bda.m3u8
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium359%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://provider-static.plex.tv/epg/cms/production/f6b8b55c-c48b-4f01-b357-5c9d62779cd8/BBC_GAME_SHOWS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer.png" tvg-id="5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb",BBC Game Shows
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656229e4b7d737841f30a4fb.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.imgur.com/wZcplCT.png" tvg-id="BBC.NEWS.HD.uk",BBC News
+https://a1xs.vip/1000015
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://images.pluto.tv/channels/65d92a8c8b24c80008e285c0/colorLogoPNG.png" tvg-id="65d92a8c8b24c80008e285c0",BBC News
 https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/bbc-news-uk.png" tvg-id="BBC.News.HD.my",BBC News
 https://ott.udptv.org/stream/astro/bbcnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.imgur.com/wZcplCT.png" tvg-id="BBC.NEWS.HD.uk",BBC News
-https://a1xs.vip/1000015
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/BBC_News_2022_%28Alt%29.svg/2560px-BBC_News_2022_%28Alt%29.svg.png",BBC News UK
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NDlkODUwYTgzMWNlLTU4NjgtNzZjNC03OGQyLTFhNWExNDk2/master.m3u8
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.ibb.co/Xk2nLVq/BBC-One.png" tvg-id="BBC.One.Lon.HD.uk",BBC One
@@ -5031,10 +5031,10 @@ https://jmp2.uk/sam-GB60000197.m3u8
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium683%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-arts-uk.png" tvg-id="Sky.Arts.HD.uk",Sky Arts UK
 https://ott.udptv.com/stream/skyuk/skyarts/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-uk.png?raw=true" tvg-id="Sky.Atlantic.HD.uk",Sky Atlantic
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium362%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://pixvid.org/images/2025/02/10/sky-atlantic.png" tvg-id="Sky.Atlantic.HD.uk",Sky Atlantic
 https://a1xs.vip/210001
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-atlantic-uk.png?raw=true" tvg-id="Sky.Atlantic.HD.uk",Sky Atlantic
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium362%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-atlantic-uk.png" tvg-id="Sky.Atlantic.HD.uk",Sky Atlantic UK
 https://ott.udptv.com/stream/skyuk/skyatlantic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-cinema-select-uk.png" tvg-id="Sky.Cinema.Select.uk",Sky Cinema 2024 Picks UK
@@ -5179,10 +5179,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2F
 https://ott.udptv.com/stream/skyuk/skysportsaction/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://tvpnlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/GB2700012HS_20250107T031219SQUARE.png" tvg-id="GB2700012HS",Sky Sports Classics
 https://jmp2.uk/sam-GB2700012HS.m3u8
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" tvg-id="SkySp.Cricket.uk",Sky Sports Cricket
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium65%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.ibb.co/JyPnwvB/sky-cricket.png" tvg-id="SkySpCricket.HD.uk",Sky Sports Cricket
 https://a1xs.vip/2000006
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-cricket-uk.png?raw=true" tvg-id="SkySp.Cricket.uk",Sky Sports Cricket
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium65%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-cricket-uk.png" tvg-id="SkySpCricket.HD.uk",Sky Sports Cricket UK
 https://ott.udptv.com/stream/skyuk/skysportscricket/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.ibb.co/h26bK2Q/sky-f1.png" tvg-id="SkySp.F1.HD.uk",Sky Sports F1
@@ -5203,10 +5203,10 @@ https://a1xs.vip/2000009
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium70%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-golf-uk.png" tvg-id="SkySp.Fball.HD.uk",Sky Sports Golf UK
 https://ott.udptv.com/stream/skyuk/skysportsgolf/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true" tvg-id="SkySpMainEv.uk",Sky Sports Main Event
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium38%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.ibb.co/CwMZcpP/sky-main-event.png" tvg-id="SkySpMainEvHD.uk",Sky Sports Main Event
 https://a1xs.vip/2000001
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-main-event-hz-uk.png?raw=true" tvg-id="SkySpMainEv.uk",Sky Sports Main Event
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium38%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/hd/sky-sports-main-event-uhd-uk.png" tvg-id="SkySpMainEvHD.uk",Sky Sports Main Event UK
 https://ott.udptv.com/stream/skyuk/skysportsmaineventuhd/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-main-event-uk.png" tvg-id="SkySpMainEvHD.uk",Sky Sports Main Event UK
@@ -5223,10 +5223,10 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2F
 https://ott.udptv.com/stream/skyuk/skysportsnews/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-plus-hz-uk.png" tvg-id="SkySp+.uk",Sky Sports Plus UK
 https://ott.udptv.com/stream/skyuk/skysportsplus/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" tvg-id="SkySportsPremierLeague.uk",Sky Sports Premier League
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium130%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.ibb.co/rcSRMh9/sky-sports-pl.png" tvg-id="SkySp.PL.HD.uk",Sky Sports Premier League
 https://a1xs.vip/2000002
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/sky-sports-premier-league-hz-uk.png?raw=true" tvg-id="SkySportsPremierLeague.uk",Sky Sports Premier League
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium130%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-premier-league-uk.png" tvg-id="SkySp.PL.HD.uk",Sky Sports Premier League UK
 https://ott.udptv.com/stream/skyuk/skysportspremierleague/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.ibb.co/Hnp1hBz/sky-racing.png" tvg-id="SkySp.Racing.HD.uk",Sky Sports Racing
@@ -5311,28 +5311,28 @@ https://jmp2.uk/sam-GB2300002AI.m3u8
 http://drewlive24.duckdns.org:4042/tubi/watch/687451
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://assets.tv24.co/channels/bt-sport-extra-1-l.webp",TNT Sport 5 UK
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1ZGE3MDdjOWNmOGNhLWY1MjktYmRiNC1kYjY4LTQwMTQ3OWZj/master.m3u8
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png" tvg-id="TNT.Sports.1.HD.uk",TNT Sports 1
-https://ott.udptv.com/stream/skyie/tntsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.imgur.com/1EYnddH.png" tvg-id="TNT.Sports.1.HD.uk",TNT Sports 1
 https://a1xs.vip/2000021
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-1-uk.png" tvg-id="TNT.Sports.1.HD.uk",TNT Sports 1
+https://ott.udptv.com/stream/skyie/tntsports1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-id="TNT.Sports.1.HD.uk",TNT Sports 1 UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium31%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png" tvg-id="TNT.Sports.2.HD.uk",TNT Sports 2
-https://ott.udptv.com/stream/skyie/tntsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.imgur.com/YtGYRIB.png" tvg-id="TNT.Sports.2.HD.uk",TNT Sports 2
 https://a1xs.vip/2000022
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-2-uk.png" tvg-id="TNT.Sports.2.HD.uk",TNT Sports 2
+https://ott.udptv.com/stream/skyie/tntsports2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true" tvg-id="TNT.Sports.2.HD.uk",TNT Sports 2 UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium32%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png" tvg-id="TNT.Sports.3.HD.uk",TNT Sports 3
-https://ott.udptv.com/stream/skyie/tntsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.imgur.com/z1d9M65.png" tvg-id="TNT.Sports.3.HD.uk",TNT Sports 3
 https://a1xs.vip/2000023
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-3-uk.png" tvg-id="TNT.Sports.3.HD.uk",TNT Sports 3
+https://ott.udptv.com/stream/skyie/tntsports3/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true" tvg-id="TNT.Sports.3.HD.uk",TNT Sports 3 UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium33%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png" tvg-id="TNT.Sports.4.HD.uk",TNT Sports 4
-https://ott.udptv.com/stream/skyie/tntsports4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://i.imgur.com/K92UuvG.png" tvg-id="TNT.Sports.4.HD.uk",TNT Sports 4
 https://a1xs.vip/2000024
+#EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-4-uk.png" tvg-id="TNT.Sports.4.HD.uk",TNT Sports 4
+https://ott.udptv.com/stream/skyie/tntsports4/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-4-uk.png?raw=true" tvg-id="TNT.Sports.4.HD.uk",TNT Sports 4 UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium34%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇬🇧 United Kingdom" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/tnt-sports-5-uk.png" tvg-id="TNT.Sports.5.HD.uk",TNT Sports 5
@@ -6453,12 +6453,12 @@ http://drewlive24.duckdns.org:9000/DrewLive%20NSFW/Abella%20Danger%20-%20Intimat
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Above.The.Rim.1994.1080p.WEBRip.x264-[YTS.AM].mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD25000161U_20250304T041450SQUARE.png" tvg-id="USBD25000161U",ACC Digital Network
 https://jmp2.uk/sam-USBD25000161U.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" tvg-id="ACC.Network.us",ACC Network
+https://a1xs.vip/40000016
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-id="ACC.Network.us",ACC NETWORK
 https://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/cxjgxvR/acc.png" tvg-id="accnetwork.us",ACC Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/296
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/acc-nw.png" tvg-id="ACC.Network.us",ACC Network
-https://a1xs.vip/40000016
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-id="ACC.Network.us",ACC NETWORK 1
 http://fl3.moveonjoy.com/ACC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/acc-network-us.png?raw=true" tvg-id="ACC.Network.us",ACC NETWORK 2
@@ -6607,6 +6607,8 @@ https://jmp2.uk/sam-US3300010F5.m3u8
 https://jmp2.uk/sam-US2200004HD.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BYjFmNjIyNmQtMDhmNS00NDNmLTk3YTQtM2YzMmJiMTI3MDMzXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-id="Movie.Dummy.us",Anger Management (2003)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Anger.Management.2003.1080p.BluRay.H264.AAC-RARBG.mp4
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/3TW3Qkf.png" tvg-id="Animal.Planet.US.-.East.us",Animal Planet
+https://a1xs.vip/300035
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" tvg-id="Animal.Planet.US.-.East.us",Animal Planet
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium304%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/animal-planet-us.png?raw=true" tvg-id="Animal.Planet.US.-.East.us",Animal Planet
@@ -6615,8 +6617,6 @@ https://ft.fbcdntv247.cfd/memfs/c1b75c6c-48df-46c5-a6e0-8a2787fb0f65_output_0.m3
 http://fl2.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/animal-planet-int.png" tvg-id="Animal.Planet.HD.my",Animal Planet
 https://ott.udptv.org/stream/astro/animalplanet/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/3TW3Qkf.png" tvg-id="Animal.Planet.US.-.East.us",Animal Planet
-https://a1xs.vip/300035
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-id="Animal.Planet.US.-.East.us",ANIMAL PLANET 1
 http://fl3.moveonjoy.com/Animal_Planet/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/animal-planet-us.png" tvg-id="Animal.Planet.US.-.East.us",ANIMAL PLANET 2
@@ -6841,10 +6841,10 @@ https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NTMzMGI1OTk1YjA2LTI
 https://a1xs.vip/40000047
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",Big Ten Network
 https://ft.fbcdntv247.cfd/memfs/a9fac2ae-4feb-4765-aded-46b61277a09b_output_0.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/btn.png" tvg-id="bigtennetwork.us",Big Ten Network
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",Big Ten Network
 http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/btn.png" tvg-id="bigtennetwork.us",Big Ten Network
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/202
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",BIG TEN Network (BTN USA)
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium397%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true" tvg-id="Big.Ten.Network.us",BIG TEN NETWORK 2
@@ -6989,12 +6989,12 @@ https://grow.dwot.io/hls/1/stream.m3u8?cachebust=7ad5acb5
 https://a1xs.vip/2501
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3504545A_20241112T000610SQUARE.png" tvg-id="USAJ3504545A",Cars
 https://jmp2.uk/sam-USAJ3504545A.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/draQT6x.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",Cartoon Network
+https://a1xs.vip/300032
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",Cartoon Network
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium339%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cartoon-network-us.png?raw=true" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",Cartoon Network
 https://ft.fbcdntv247.cfd/memfs/30919575-c426-404b-a063-395b706fa39c_output_0.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/draQT6x.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",Cartoon Network
-https://a1xs.vip/300032
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png" tvg-id="Cartoon.Network.USA.-.Eastern.Feed.us",Cartoon Network (East)
 http://user.scalecdn.co:8080/live/26725074/92867131/3711.ts
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png" tvg-id="Cartoon.Network.USA.-.Pacific.Feed.us",Cartoon Network (West)
@@ -7059,14 +7059,14 @@ https://a1xs.vip/4000009
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-6571186d9a46917c0a8f2ddd.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://yt3.googleusercontent.com/DMOVkUIv9Su7yHsGmjl7gS0iU9qjvz13BSZZfQTVMCAE7mUHbWS3S0-DbFg1HUBt9pD9yjxT=s900-c-k-c0x00ffffff-no-rj",CBS Sports Golazo!
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NjU5NGU0NzYwMGEwLTIwZmItMWNiNC1iMDI4LTYzZmM5NjU3/master.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" tvg-id="plex.tv.CBS.Sports.HQ.plex",CBS Sports HQ
+https://a1xs.vip/4000007
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://provider-static.plex.tv/epg/cms/production/c819c2a2-3331-4d36-984c-fe957b843dbe/CBS_SPORTS_Color_Logo.png" tvg-id="5e20b730f2f8d5003d739db7-657107dc56226238740fcc2d",CBS Sports HQ
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-657107dc56226238740fcc2d.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://images.pluto.tv/channels/5e9f2c05172a0f0007db4786/colorLogoPNG_1731837352945.png" tvg-id="5e9f2c05172a0f0007db4786",CBS Sports HQ
 https://jmp2.uk/plu-5e9f2c05172a0f0007db4786.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB4800005VO_20250325T015132SQUARE.png" tvg-id="USBB4800005VO",CBS Sports HQ
 https://jmp2.uk/sam-USBB4800005VO.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/31/CBS_Sports_HQ.png" tvg-id="plex.tv.CBS.Sports.HQ.plex",CBS Sports HQ
-https://a1xs.vip/4000007
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/15/cbs-sports.png" tvg-id="CBS.Sports.Network.USA.us",CBS Sports Network
 https://a1xs.vip/4000008
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-sports-network-us.png?raw=true" tvg-id="CBS.Sports.Network.USA.us",CBS Sports Network
@@ -7219,12 +7219,12 @@ https://a1xs.vip/300009
 https://ft.fbcdntv247.cfd/memfs/4268c138-3258-42b8-8192-f9a3873e7794_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2560px-CNBC_logo.svg.png",CNBC
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MDJhNDYwMTRlYWY0LWFiOTktNTg2NC1hYWE4LThlY2NmNDk2/master.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-id="CNBC.USA.us",CNBC
+https://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/cnbc.png" tvg-id="cnbc.us",CNBC
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/192
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnbc-us.png" tvg-id="CNBC.Asia.HD.my",CNBC
 https://ott.udptv.org/stream/astro/cnbc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-id="CNBC.USA.us",CNBC
-https://fl3.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-id="CNBC.USA.us",CNBC 1
 http://fl5.moveonjoy.com/CNBC/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10139_dark_360w_270h.png" tvg-id="CNBC.USA.us",CNBC 2
@@ -7275,6 +7275,8 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 https://tvpass.org/live/mlb-16/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tinyurl.com/drewsportslogo" tvg-id="Sports.Dummy.us",Colorado Rockies @ Milwaukee Brewers (06/29 2:11 PM ET)
 https://tvpass.org/live/mlb-16/sd
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/nJT6QX9.png" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us",Comedy Central
+https://a1xs.vip/300004
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-us.png?raw=true" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us",Comedy Central
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium310%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-icon-us.png?raw=true" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us",Comedy Central
@@ -7285,8 +7287,6 @@ https://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://images.pluto.tv/channels/64f8a408bd341e000818fcda/colorLogoPNG.png" tvg-id="64f8a408bd341e000818fcda",Comedy Central
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/nJT6QX9.png" tvg-id="Comedy.Central.(US).-.Eastern.Feed.us",Comedy Central
-https://a1xs.vip/300004
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-icon-us.png?raw=true" tvg-id="comedy-central-us-eastern-feed",Comedy Central (US) Eastern Feed
 https://tvpass.org/live/ComedyCentralEast/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/comedy-central-icon-us.png?raw=true" tvg-id="comedy-central-us-eastern-feed",Comedy Central (US) Eastern Feed
@@ -7435,12 +7435,12 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 http://fl3.moveonjoy.com/Destination_America/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/destinationamerica.png" tvg-id="destinationamerica.us",Destination America
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/185
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-id="Destination.America.us",DESTINATION AMERICA
-http://143.244.60.30/Destination_America/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-id="destination-america",Destination America
 https://tvpass.org/live/DestinationAmerica/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-id="destination-america",Destination America
 https://tvpass.org/live/DestinationAmerica/sd
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/destination-america-us.png?raw=true" tvg-id="Destination.America.us",DESTINATION AMERICA
+http://143.244.60.30/Destination_America/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" tvg-id="Adult.Section.Dummy.us",Destini
 https://cdn.baddiehub.com/bp.mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" tvg-id="Adult.Section.Dummy.us",Diamond (Full)
@@ -7453,6 +7453,8 @@ https://jmp2.uk/sam-US3700006XE.m3u8
 https://ft.fbcdntv247.cfd/memfs/17dec456-cbcb-4836-b268-dd2a40cb4b87_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/hong-kong/discovery-asia-hk.png" tvg-id="Discovery.Asia.HD.my",Discovery Asia
 https://ott.udptv.org/stream/astro/discoveryasia/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/1eM0KX8.png" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us",Discovery Channel
+https://a1xs.vip/300034
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-3-us.png?raw=true" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us",Discovery Channel
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium313%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://brandlogos.net/wp-content/uploads/2013/01/discovery-channel-.eps-logo-vector-400x400.png",Discovery Channel
@@ -7463,8 +7465,6 @@ http://fl3.moveonjoy.com/Discovery_Channel/index.m3u8
 https://ott.udptv.org/stream/astro/discoverychannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-channel-us.png" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us",DISCOVERY CHANNEL
 http://143.244.60.30/Discovery_Channel/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/1eM0KX8.png" tvg-id="Discovery.Channel.(US).-.Eastern.Feed.us",Discovery Channel
-https://a1xs.vip/300034
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" tvg-id="discovery-channel-us-eastern-feed",Discovery Channel (US) Eastern Feed
 https://tvpass.org/live/DiscoveryChannelEast/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-channel-icon-2-us.png?raw=true" tvg-id="discovery-channel-us-eastern-feed",Discovery Channel (US) Eastern Feed
@@ -7473,12 +7473,12 @@ https://tvpass.org/live/DiscoveryChannelEast/sd
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium657%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16618_h15_ab.png" tvg-id="Discovery.Family.Channel.us",Discovery Family
 http://fl2.moveonjoy.com/DISCOVERY_FAMILY_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" tvg-id="Discovery.Family.Channel.us",DISCOVERY FAMILY CHANNEL
-http://143.244.60.30/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" tvg-id="discovery-family-channel",Discovery Family Channel
 https://tvpass.org/live/DiscoveryFamily/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/discovery-family-us.png?raw=true" tvg-id="discovery-family-channel",Discovery Family Channel
 https://tvpass.org/live/DiscoveryFamily/sd
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16618_dark_360w_270h.png" tvg-id="Discovery.Family.Channel.us",DISCOVERY FAMILY CHANNEL
+http://143.244.60.30/DISCOVERY_FAMILY_CHANNEL/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s16125_h15_ac.png" tvg-id="Discovery.Life.Channel.us",Discovery Life
 http://fl2.moveonjoy.com/DISCOVERY_LIFE/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16125_dark_360w_270h.png" tvg-id="Discovery.Life.Channel.us",DISCOVERY LIFE
@@ -7661,20 +7661,22 @@ http://fl1.moveonjoy.com/EPIX_2/index.m3u8
 http://143.244.60.30/EPIX_DRIVE_IN/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mgm-plus-hits-us.png?raw=true" tvg-id="MGM+.Hits.HDTV.(East).(MGM+HTHD).us",EPIX HITS
 http://fl1.moveonjoy.com/EPIX_HITS/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" tvg-id="ESPN.us",ESPN
+https://a1xs.vip/40000011
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-icon-us.png?raw=true" tvg-id="ESPN.us",ESPN
 https://ft.fbcdntv247.cfd/memfs/4e731d12-852c-4daa-b950-aa97b5357aba_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/espn.png" tvg-id="espn.us",ESPN
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/133
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_dark_360w_270h.png" tvg-id="ESPN.us",ESPN
 http://fl1.moveonjoy.com/Espn/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/espn-logo-1024.png" tvg-id="ESPN.us",ESPN
-https://a1xs.vip/40000011
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espn-2-us.png?raw=true" tvg-id="ESPN2.us",ESPN 2
 https://ft.fbcdntv247.cfd/memfs/c8d2e86a-43fc-4b22-b084-3008e8d1063c_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/espn2.png" tvg-id="espn2.us",ESPN 2
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/173
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12444_dark_360w_270h.png" tvg-id="ESPN2.us",ESPN 2
 http://143.244.60.30/ESPN_2/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" tvg-id="ESPN.News.us",ESPN News
+https://a1xs.vip/40000014
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" tvg-id="ESPN.News.us",ESPN News
 https://ft.fbcdntv247.cfd/memfs/56cc18c4-1e9d-4af0-b1a2-76fc8fc86333_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" tvg-id="ESPN.News.us",ESPN NEWS
@@ -7683,8 +7685,6 @@ https://fl3.moveonjoy.com/ESPN_NEWS/index.m3u8
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/134
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16485_dark_360w_270h.png" tvg-id="ESPN.News.us",ESPN NEWS
 http://143.244.60.30/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/espnews.png" tvg-id="ESPN.News.us",ESPN News
-https://a1xs.vip/40000014
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/espnews-us.png?raw=true" tvg-id="ESPN.U.us",ESPN U
 https://ft.fbcdntv247.cfd/memfs/be6d8aa9-b18f-4004-9f5a-e587a49c3bc4_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_dark_360w_270h.png" tvg-id="ESPNU.On.Demand.us",ESPN U
@@ -8023,22 +8023,22 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Friday.1995.Directors.Cut.10
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Friday After Next 2002 1080p WEBRip DDP 5 1 10bit H 265-iVy.mkv
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTcxMDI5MTM4Ml5BMl5BanBnXkFtZTcwNjA4MDcyMQ@@._V1_.jpg" tvg-id="Movie.Dummy.us",Friday Night Lights (2004)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Friday.Night.Lights.2004.1080p.BluRay.x265-RARBG.mp4
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" tvg-id="Fox.Sports.1.us",FS1
+https://a1xs.vip/40000021
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/fs1.png" tvg-id="Fox.Sports.1.us",FS1
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/263
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" tvg-id="Fox.Sports.1.us",FS1
 https://ott.udptv.org/stream/udptvus/fs1/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-1-us.png?raw=true" tvg-id="Fox.Sports.1.us",FS1
 http://143.244.60.30/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/fs1.png" tvg-id="Fox.Sports.1.us",FS1
-https://a1xs.vip/40000021
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" tvg-id="Fox.Sports.2.us",FS2
+https://a1xs.vip/40000022
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/fs2.png" tvg-id="Fox.Sports.2.us",FS2
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/264
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" tvg-id="Fox.Sports.2.us",FS2
 https://ott.udptv.org/stream/udptvus/fs2/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-sports-2-us.png?raw=true" tvg-id="Fox.Sports.2.us",FS2
 http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/fs2.png" tvg-id="Fox.Sports.2.us",FS2
-https://a1xs.vip/40000022
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ2200023Z0_20250325T015044SQUARE.png" tvg-id="USAJ2200023Z0",fubo Sports Network
 https://jmp2.uk/sam-USAJ2200023Z0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/13/FuboTV_logo.svg",Fubo Sports USA
@@ -8097,10 +8097,10 @@ https://tvpass.org/live/FXXEast/hd
 https://tvpass.org/live/FXXEast/sd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-id="FYI.USA.-.Eastern.us",FYI
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium665%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58988_h15_aa.png" tvg-id="FYI.USA.-.Eastern.us",FYI
-http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-id="FYI.USA.-.Eastern.us",FYI
 https://fl3.moveonjoy.com/FYI/index.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s58988_h15_aa.png" tvg-id="FYI.USA.-.Eastern.us",FYI
+http://fl2.moveonjoy.com/FYI/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-id="FYI.USA.-.Eastern.us",FYI
 http://143.244.60.30/FYI/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true" tvg-id="fyi-usa-eastern",FYI USA Eastern
@@ -8157,10 +8157,10 @@ https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NmNmOTRlN2Q4ZDg2LTl
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/138
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-channel-us.png?raw=true" tvg-id="astro/golfchannel",Golf Channel
 https://ott.udptv.org/stream/astro/golfchannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" tvg-id="Golf.Channel.USA.us",GOLF Channel USA
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/02/18/golf-channel.png" tvg-id="Golf.Channel.USA.us",Golf Channel USA
 https://a1xs.vip/40000060
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" tvg-id="Golf.Channel.USA.us",GOLF Channel USA
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" tvg-id="golf-channel-usa",Golf Channel USA
 https://tvpass.org/live/GolfChannel/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-golf-us.png?raw=true" tvg-id="golf-channel-usa",Golf Channel USA
@@ -8261,14 +8261,14 @@ https://tvpass.org/live/HBO2East/hd
 https://tvpass.org/live/HBO2East/sd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/Freevee_HBOBoxing_1920x1080_new._SL170_FMpng_.png" tvg-id="Amazon.US.HBOBoxing",HBO Boxing
 https://ott.udptv.net/stream/iptv/hboboxing/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/CvxmOqV.png" tvg-id="HBO.Comedy.HD.-.East.us",HBO Comedy
+https://a1xs.vip/300005
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s59839_h15_aa.png" tvg-id="HBO.Comedy.HD.-.East.us",HBO Comedy
 http://fl2.moveonjoy.com/HBO_COMEDY/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/HBO_Comedy._SL170_FMpng_.png" tvg-id="HBO.Comedy.HD.-.East.us",HBO Comedy
 https://ott.udptv.net/stream/iptv/hbocomedy/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18429_dark_360w_270h.png" tvg-id="HBO.Comedy.HD.-.East.us",HBO COMEDY
 http://143.244.60.30/HBO_COMEDY/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/CvxmOqV.png" tvg-id="HBO.Comedy.HD.-.East.us",HBO Comedy
-https://a1xs.vip/300005
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" tvg-id="hbo-comedy-hd-east",HBO Comedy East
 https://tvpass.org/live/HBOComedyEast/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/hbo-comedy-us.png?raw=true" tvg-id="hbo-comedy-hd-east",HBO Comedy East
@@ -8947,14 +8947,14 @@ https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NGIxMDU4YWFkNjNkLTc
 https://fl3.moveonjoy.com/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/mlbmain.png" tvg-id="mlbnetwork.us",MLB Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/145
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-id="udptvus/mlbnetwork",MLB Network
-https://ott.udptv.org/stream/udptvus/mlbnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-id="MLB.Network.us",MLB NETWORK
-http://143.244.60.30/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-id="mlb-network",MLB Network
 https://tvpass.org/live/MLBNetwork/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-id="mlb-network",MLB Network
 https://tvpass.org/live/MLBNetwork/sd
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-id="udptvus/mlbnetwork",MLB Network
+https://ott.udptv.org/stream/udptvus/mlbnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s62081_dark_360w_270h.png" tvg-id="MLB.Network.us",MLB NETWORK
+http://143.244.60.30/MLB_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/mlb-network-us.png?raw=true" tvg-id="MLB.Network.us",MLB Network USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium399%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BMjI4MzU5NTExNF5BMl5BanBnXkFtZTgwNzY1MTEwMDI@._V1_QL75_UX190_CR0 tvg-name=" tvg-id="Movie.Dummy.us",Moana (2009)
@@ -9039,12 +9039,12 @@ https://jmp2.uk/sam-USBD17000117B.m3u8
 http://adultswim-vodlive.cdn.turner.com/live/mr-pickles/stream.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US310000101_20250211T021732SQUARE.png" tvg-id="US310000101",MrBeast
 https://jmp2.uk/sam-US310000101.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" tvg-id="MSG.(Madison.Square.Gardens).us",MSG
+https://a1xs.vip/4000001
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-id="MSG.(Madison.Square.Gardens).us",MSG
 http://fl3.moveonjoy.com/MSG/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/msg-us.png" tvg-id="MSG.(Madison.Square.Gardens).us",MSG
 http://143.244.60.30/MSG/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.postimg.cc/W1jFdzt4/MSG-Network-logo.png" tvg-id="MSG.(Madison.Square.Gardens).us",MSG
-https://a1xs.vip/4000001
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-plus-us.png?raw=true" tvg-id="msg-plus",MSG Plus
 https://tvpass.org/live/msg-plus/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/msg-plus-us.png?raw=true" tvg-id="msg-plus",MSG Plus
@@ -9237,12 +9237,12 @@ http://fl1.moveonjoy.com/NBA_TV/index.m3u8
 https://ott.udptv.org/stream/udptvus/nbatvnbalp/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/G/01/digital/video/Linear_Clean_Slate/NBA_TV_HDTV._SL170_FMpng_.png" tvg-id="NBA.TV.USA.us",NBA TV HDTV [HD] [HD]
 https://ott.udptv.com/stream/udptv/nbatvhdtv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-id="NBA.TV.USA.us",NBA TV USA
-https://ott.udptv.org/stream/udptvus/nbatv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-id="nba-tv-usa",NBA TV USA
 https://tvpass.org/live/NBATV/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-icon-us.png?raw=true" tvg-id="nba-tv-usa",NBA TV USA
 https://tvpass.org/live/NBATV/sd
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nba-tv-us.png?raw=true" tvg-id="NBA.TV.USA.us",NBA TV USA
+https://ott.udptv.org/stream/udptvus/nbatv/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/NBC_logo.svg/1200px-NBC_logo.svg.png",NBC
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1OWQwNWM4NGU1NzQ0LWIzZTgtOTUyNC0wMjA2LWNjMWE3YTQw/master.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3200005A0_20241112T001208SQUARE.png" tvg-id="USBC3200005A0",NBC Bay Area News
@@ -9281,10 +9281,10 @@ https://jmp2.uk/sam-USBD420002446.m3u8
 https://a1xs.vip/400051
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/necn-us.png" tvg-id="New.England.Sports.Network.us",NECN
 https://ott.udptv.com/stream/nbc/necn/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/HRRPMyQ/nesn-logo.png" tvg-id="New.England.Sports.Network.us",NESN
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/890
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.postimg.cc/CxVDbJrS/nesn.png" tvg-id="New.England.Sports.Network.HDTV.(NESNHD).us",NESN
 https://a1xs.vip/4000004
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/HRRPMyQ/nesn-logo.png" tvg-id="New.England.Sports.Network.us",NESN
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/890
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US300062TG_20250304T041517SQUARE.png" tvg-id="US300062TG",NESN Nation
 https://jmp2.uk/sam-US300062TG.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/KcPJSnhm/NESN-Plus-Logo.png" tvg-id="New.England.Sports.Network.Plus.us",NESN PLUS
@@ -9389,14 +9389,14 @@ https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1NzhjOTY4MTkxNGM2LWI
 https://fl3.moveonjoy.com/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/nfl.png" tvg-id="NFL.Network.us",NFL Network
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/234
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-id="Amazon.US.NFLNetwork",NFL Network
-https://ott.udptv.com/stream/udptv/nflnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-id="NFL.Network.us",NFL NETWORK
-http://143.244.60.30/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-id="nfl-network",NFL Network
 https://tvpass.org/live/NFLNetwork/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-id="nfl-network",NFL Network
 https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-id="Amazon.US.NFLNetwork",NFL Network
+https://ott.udptv.com/stream/udptv/nflnetwork/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-network-us.png?raw=true" tvg-id="NFL.Network.us",NFL NETWORK
+http://143.244.60.30/NFL_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/nfl-rz.png" tvg-id="NFL.RedZone.us",NFL RedZone
 https://a1xs.vip/40000033
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nfl-red-zone-us.png?raw=true" tvg-id="NFL.RedZone.us",NFL Redzone
@@ -9463,20 +9463,20 @@ https://cdn.baddiehub.com/NiaNacc.mp4
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium330%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" tvg-id="Nick.Jr..-.East.us",NICK JR
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium329%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" tvg-id="nickjr.us",Nick Jr.
-http://cdn1host.online:2999/kratorius/opLcbhlXaT/351
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/cHN8fE8.png" tvg-id="Nick.Jr..-.East.us",Nick Jr.
 https://a1xs.vip/300033
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-jr-us.png?raw=true" tvg-id="nickjr.us",Nick Jr.
+http://cdn1host.online:2999/kratorius/opLcbhlXaT/351
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/zrgLxfw/Nick-Music-Logo.png" tvg-id="nickmusic.us",Nick Music
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/50786
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-music-us.png?raw=true" tvg-id="fubo/nickmusic",Nick Music
 https://ott.udptv.com/stream/fubo/nickmusic/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3000158L_20241112T000708SQUARE.png" tvg-id="USBA3000158L",Nick Pluto TV
 https://jmp2.uk/sam-USBA3000158L.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon
-https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/jE2YHz0.png" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon
 https://a1xs.vip/300030
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nick-us.png?raw=true" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon
+https://ft.fbcdntv247.cfd/memfs/64e9b01f-1dfc-4708-b9b6-ab6249c25536_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11006_dark_360w_270h.png" tvg-id="Nickelodeon.USA.-.East.Feed.us",NICKELODEON 1
 http://cord-cutter.net:8080/bn80NG/909467/38
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nickelodeon-us.png?raw=true" tvg-id="Nickelodeon.USA.-.East.Feed.us",Nickelodeon East
@@ -9931,10 +9931,10 @@ https://jmp2.uk/sam-USBD3000073N.m3u8
 https://tvpass.org/live/WNBA05/hd
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tinyurl.com/drewsportslogo" tvg-id="Sports.Dummy.us",Seattle Storm @ Golden State Valkyries (06/29 8:30 PM ET)
 https://tvpass.org/live/WNBA05/sd
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-id="SEC.Network.us",SEC NETWORK
-http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/25/sec-nw.png" tvg-id="SEC.Network.us",SEC Network
 https://a1xs.vip/40000015
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-id="SEC.Network.us",SEC NETWORK
+http://fl1.moveonjoy.com/SEC_NETWORK/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/sec-network-us.png?raw=true" tvg-id="SEC.Network.us",SEC Network USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium385%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BOWU2MjkzN2EtNzY4MC00N2RlLThiNzEtMjk2M2M3NGJjZjRlXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-id="Movie.Dummy.us",Selena (1997)
@@ -10375,12 +10375,12 @@ http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Ted.2012.BluRay.1080p.x264.Y
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Ted.2.2015.EXTENDED.1080p.10bit.BluRay.6CH.x265.HEVC-PSA.mkv
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" tvg-id="TeenNick.-.Eastern.us",Teen Nick
 https://ott.udptv.org/stream/udptvus/teennick/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/U3cZhfT.png" tvg-id="TeenNick.-.Eastern.us",TeenNick
+https://a1xs.vip/300031
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/teen-nick-us.png?raw=true" tvg-id="TeenNick.-.Eastern.us",TeenNick
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium650%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.ibb.co/n87j89Q/teennick.png" tvg-id="TeenNick.-.Eastern.us",TeenNick
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/1668
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/U3cZhfT.png" tvg-id="TeenNick.-.Eastern.us",TeenNick
-https://a1xs.vip/300031
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" tvg-id="Adult.Section.Dummy.us",Tekken 8
 https://cdn.baddiehub.com/SKonJ.mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/telemundo-us.png?raw=true" tvg-id="Telemundo..-.Eastern.Feed.us",Telemundo
@@ -10399,6 +10399,8 @@ https://jmp2.uk/sam-US1800004S5.m3u8
 https://jmp2.uk/sam-USBD3500015R5.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BOGI1M2MwYzEtZmMwOC00NGUzLWIzMzYtOTczZWM3NDYwZTkyXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" tvg-id="Movie.Dummy.us",Tenacious D in The Pick of Destiny (2006)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Tenacious.D.In.The.Pick.Of.Destiny.2006.BLURAY.1080p.BluRay.x264.AAC5.1-[YTS.MX].mp4
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" tvg-id="The.Tennis.Channel.us",Tennis Channel
+https://a1xs.vip/40000040
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tennis-channel-hz-us.png?raw=true" tvg-id="The.Tennis.Channel.us",Tennis Channel
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium40%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://lonewolftvpr.com/logos/tennis.png" tvg-id="The.Tennis.Channel.us",Tennis Channel
@@ -10407,8 +10409,6 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/244
 https://ott.udptv.org/stream/udptvus/tennischannel/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s33395_dark_360w_270h.png" tvg-id="The.Tennis.Channel.us",TENNIS CHANNEL
 http://143.244.60.30/TENNIS_CHANNEL/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" tvg-id="The.Tennis.Channel.us",Tennis Channel
-https://a1xs.vip/40000040
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/7382296F-97F6-4450-B77B-8FE331FC04F6/3-1x1.png" tvg-id="Tennis.Dummy.us",Tennis Channel 2
 http://cdn1host.online:2999/kratorius/opLcbhlXaT/13947
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/30/tennis-channel.png" tvg-id="The.Tennis.Channel.us",Tennis Channel Plus
@@ -10589,14 +10589,14 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko
 https://jmp2.uk/sam-USBD70000213.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB1000001XP_20240520T215955SQUARE.png" tvg-id="USBB1000001XP",TNA Wrestling
 https://jmp2.uk/sam-USBB1000001XP.m3u8
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" tvg-id="TNT.-.Eastern.Feed.us",TNT
+https://a1xs.vip/300001
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/tnt-us.png?raw=true" tvg-id="TNT.-.Eastern.Feed.us",TNT
 https://ft.fbcdntv247.cfd/memfs/b8e3ff52-2d13-45a6-a3a0-9e64c1a0080c_output_0.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/TNT_%28TV_Channel%29.svg/1200px-TNT_%28TV_Channel%29.svg.png",TNT
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1OGU5NDc2OGMzNzcxLWQ5NDktNDViNC1hMGMzLTI4YzBiZGY2/master.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/tnt-us.png" tvg-id="TNT.-.Eastern.Feed.us",TNT
 https://ott.udptv.org/stream/udptvus/tnt/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://i.imgur.com/Oa7yt2Z.png" tvg-id="TNT.-.Eastern.Feed.us",TNT
-https://a1xs.vip/300001
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11164_h15_ac.png" tvg-id="TNT.-.Eastern.Feed.us",TNT (East)
 http://fl2.moveonjoy.com/TNT/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11164_dark_360w_270h.png" tvg-id="TNT.-.Eastern.Feed.us",TNT (East)1
@@ -10767,6 +10767,8 @@ http://cdn1host.online:2999/kratorius/opLcbhlXaT/45849
 https://a1xs.vip/4000080
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/usa-us.png" tvg-id="USA.Network.-.East.Feed.us",USA East
 https://ott.udptv.com/stream/udptv/usaeast/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" tvg-id="USA.Network.-.East.Feed.us",USA Network
+https://a1xs.vip/1100020
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-id="USA.Network.-.East.Feed.us",USA Network
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium343%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-id="USA.Network.-.East.Feed.us",USA Network
@@ -10775,8 +10777,6 @@ https://ft.fbcdntv247.cfd/memfs/594edb0c-896e-4853-b97b-26c3a4f05156_output_0.m3
 https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1YWM5OGZjM2FkNDI1LTc2MzgtMjMwNC00OTUyLWRmZGVhYzlh/master.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/canada/usa-network-ca.png" tvg-id="USA.Network.(CAN).ca",USA Network
 http://iptv.maxlacress.com:2082/nbx74sHVe3GUZ6/cxz83DS5mF3wDS/138592
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/01/21/usa-network.png" tvg-id="USA.Network.-.East.Feed.us",USA Network
-https://a1xs.vip/1100020
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s11207_h15_af.png" tvg-id="USA.Network.-.East.Feed.us",USA Network (US)
 http://fl2.moveonjoy.com/USA_Network/index.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-id="USA.Network.-.East.Feed.us",USA NETWORK 1
@@ -10911,10 +10911,10 @@ https://jmp2.uk/sam-US3800007CR.m3u8
 https://cdn.baddiehub.com/cuvs.mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://goodbadpeople.s3.amazonaws.com/upload/photos/2023/06/VABGVNKCE45Q5Tlf62VB_24_86080d5ffb4b008236c164120b930eae_avatar_full.png" tvg-id="Adult.Section.Dummy.us",Willow & HMR
 https://cdn.baddiehub.com/WillHMR.mp4
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us",Willow Cricket
-http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium346%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/02/04/willow.png" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us",Willow Cricket
 https://a1xs.vip/40000042
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/willow-us.png?raw=true" tvg-id="Willow.Cricket.HDTV.(WILLOWHD).us",Willow Cricket
+http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium346%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://pixvid.org/images/2025/02/04/willow-xtra.png" tvg-id="Willow.Xtra.us",Willow Cricket Xtra
 https://a1xs.vip/40000043
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://www.dropbox.com/scl/fi/vba5lu98zkqvfqg3tvbdf/DrewLiveXXX.png?rlkey=tfgnb2f6d6cvoa90mswd0qq1o&st=e1y5o1lq&dl=1" tvg-id="Adult.Section.Dummy.us",Willow Ryder & Kelsey Kane - AssParade
