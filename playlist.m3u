@@ -347,27 +347,27 @@ https://jmp2.uk/plu-64ff1d7111054500083f01ee.m3u8
 http://drewlive24.duckdns.org:4042/tubi/watch/400000155
 #EXTINF:-1 group-title="🇧🇷 Brazil" tvg-logo="https://provider-static.plex.tv/epg/cms/production/7a844a53-a5ad-4ef0-9217-24323f0e80de/Channel_Logo_The_Librarians_WHITERDX.png" tvg-id="5e20b730f2f8d5003d739db7-654a8041fa75888bea239718",The Librarians
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-654a8041fa75888bea239718.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
-#EXTINF:-1 group-title="🇨🇦 Canada",.AB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" radio="false",CTV Calgary (CFCN)
+#EXTINF:-1 group-title="🇨🇦 Canada",CTV Calgary (CFCN)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfcn.calgary.ab.ca.m3u8
-#EXTINF:-1 group-title="🇨🇦 Canada",.AB.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv--ca.png?raw=true" ,CTV Canada
+#EXTINF:-1 group-title="🇨🇦 Canada",CTV Canada
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium602%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇨🇦 Canada",.BC..ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" radio="false",CTV Vancouver
+#EXTINF:-1 group-title="🇨🇦 Canada",CTV Vancouver
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.vancouver.bc.ca.m3u8
-#EXTINF:-1 group-title="🇨🇦 Canada",.MB.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" radio="false",CTV Winnipeg (CKY)
+#EXTINF:-1 group-title="🇨🇦 Canada",CTV Winnipeg (CKY)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cky.winnipeg.mb.ca.m3u8
-#EXTINF:-1 group-title="🇨🇦 Canada",.ON..ca" tvg-logo="https://media.starlite.best/yes.tv.ckcs.calgary.ab.ca.png" radio="false",Yes TV
+#EXTINF:-1 group-title="🇨🇦 Canada",Yes TV
 http://pfsv.io/live/DD55xmNdy2/blendediptv.me/228788.ts
-#EXTINF:-1 group-title="🇨🇦 Canada",.ON.ca" tvg-logo="https://cdn.tvpassport.com/image/station/240x135/v2/s10108_h15_ab.png" radio="false",CTV Toronto (CTFO)
+#EXTINF:-1 group-title="🇨🇦 Canada",CTV Toronto (CTFO)
 https://starlite.best/api/stream/smart/smart/livetv.epg/ctv.cfto.toronto.on.ca.m3u8
-#EXTINF:-1 group-title="🇨🇦 Canada",.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/cbc-toronto-ca.png?raw=true" ,CBC Canada
+#EXTINF:-1 group-title="🇨🇦 Canada",CBC Canada
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium832%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇨🇦 Canada",.ON.ca" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/canada/ctv-2-ca.png?raw=true" ,CTV 2 Canada
+#EXTINF:-1 group-title="🇨🇦 Canada",CTV 2 Canada
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium838%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇨🇦 Canada",.QC.ca" tvg-logo="https://media.starlite.best/noovo.vtele.ca.png" radio="false",Noovo Montreal (CFJP)
+#EXTINF:-1 group-title="🇨🇦 Canada",Noovo Montreal (CFJP)
 https://tvnow.best/api/stream/burns/burns/livetv.epg/v.cfjp.montrealqc.ca.m3u8
-#EXTINF:-1 group-title="🇨🇦 Canada",.QC.ca" tvg-logo="https://media.starlite.best/noovo.vtele.ca.png" radio="false",Noovo Quebec (CFAP)
+#EXTINF:-1 group-title="🇨🇦 Canada",Noovo Quebec (CFAP)
 https://tvnow.best/api/stream/burns/burns/livetv.epg/v.cfap.quebec.qc.ca.m3u8
-#EXTINF:-1 group-title="🇨🇦 Canada",.QC.ca" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/52/Noovo_logo.png" ,Noovo CA
+#EXTINF:-1 group-title="🇨🇦 Canada",Noovo CA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fdokko1new.newkso.ru%2Fdokko1%2Fpremium835%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://images.pluto.tv/channels/62ba60f059624e000781c436/colorLogoPNG.png" tvg-id="62ba60f059624e000781c436",00s Replay
 https://jmp2.uk/plu-62ba60f059624e000781c436.m3u8
@@ -1829,7 +1829,7 @@ https://jmp2.uk/plu-5873fc21cad696fb37aa9054.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-62aa3052e038c5467eebbc47.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://canvas-lb.tubitv.com/opts/G2vNHx3b9Bn0Sw==/577b5b8e-307a-4535-a8fc-e18563a11950/CHgQeDoFMS4xLjZAAQ==" tvg-id="618763",Localish
 http://drewlive24.duckdns.org:4042/tubi/watch/618763
-#EXTINF:-1 group-title="🇨🇦 Canada",location, location" tvg-id="620f6f9e36a49b000761f0d5" tvg-logo="https://images.pluto.tv/channels/620f6f9e36a49b000761f0d5/colorLogoPNG.png" tvg-chno="833" ,location
+#EXTINF:-1 group-title="🇨🇦 Canada",location
 https://jmp2.uk/plu-620f6f9e36a49b000761f0d5.m3u8
 #EXTINF:-1 group-title="🇨🇦 Canada" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/logo-us.png?raw=true" tvg-id="logo-east",LOGO East
 https://tvpass.org/live/LogoEast/hd
@@ -4375,13 +4375,13 @@ https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f5132e362fe
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-66a1ae9e77649467da169f0e.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://images.pluto.tv/channels/60fb3087fbbc120007fc46be/colorLogoPNG.png" tvg-id="60fb3087fbbc120007fc46be",Series con Ã‘
 https://jmp2.uk/plu-60fb3087fbbc120007fc46be.m3u8
-#EXTINF:-1 group-title="🇪🇸 Spain",She Wrote" tvg-id="6549337183595c000815ad05" tvg-logo="https://images.pluto.tv/channels/6549337183595c000815ad05/colorLogoPNG.png" tvg-chno="690" ,She Wrote
+#EXTINF:-1 group-title="🇪🇸 Spain",She Wrote
 https://jmp2.uk/plu-6549337183595c000815ad05.m3u8
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://canvas-lb.tubitv.com/opts/Nbi04He3-VcD9g==/2601f920-7f1b-4a8f-a583-00b77ede189e/CHgQeDoFMS4xLjZAAQ==" tvg-id="400000064",Silent Witness and New Tricks
 http://drewlive24.duckdns.org:4042/tubi/watch/400000064
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://provider-static.plex.tv/epg/cms/production/877f1e84-0244-4a3f-ada4-fe7c2e41df9b/SILENT_WITNESS_PLEX_BRAND_CHANNEL_Logo_Light_1500X1000_Caitlin_Schiffer__1_.png" tvg-id="5e20b730f2f8d5003d739db7-656235425dbccec83a87b645",Silent Witness|New Tricks
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-656235425dbccec83a87b645.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
-#EXTINF:-1 group-title="🇪🇸 Spain",Sister" tvg-id="6695294632e25300084bb61b" tvg-logo="https://images.pluto.tv/channels/6695294632e25300084bb61b/colorLogoPNG.png" tvg-chno="306" ,Sister
+#EXTINF:-1 group-title="🇪🇸 Spain",Sister
 https://jmp2.uk/plu-6695294632e25300084bb61b.m3u8
 #EXTINF:-1 group-title="🇪🇸 Spain" tvg-logo="https://provider-static.plex.tv/epg/cms/production/a8716411-7f01-4f8b-bde3-e8390a6d14ce/SLOPES_logo_dark.png" tvg-id="5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53",SLOPES
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-616df1be2cf008a748c8cb53.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
@@ -6181,133 +6181,133 @@ https://rzdtwfb81w5jihkz.buyapartments.online/v3/director/VE1MTM1MGFmMDIzODI3LTk
 https://jmp2.uk/str-5747.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBC.America.-.East.us",--- BBC AMERICA (WEST) 1
 http://fl1.moveonjoy.com/BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.CA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true" radio="false",getTV
+#EXTINF:-1 group-title="🇺🇸 United States",getTV
 https://fl3.moveonjoy.com/GET_TV/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.CA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" ,ABC (KABC)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC (KABC)
 https://ott.udptv.org/stream/udptvus/kabc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States",.CA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" ,ABC(KGO)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC(KGO)
 https://ott.udptv.org/stream/udptvus/abckgo/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States",.CA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/fox-11-kttv-us.png?raw=true" ,FOX 11
+#EXTINF:-1 group-title="🇺🇸 United States",FOX 11
 https://ott.udptv.org/stream/udptvus/fox11/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States",.CA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/nbc-4-knbc-us.png?raw=true" ,KNBC
+#EXTINF:-1 group-title="🇺🇸 United States",KNBC
 https://ott.udptv.org/stream/udptvus/knbc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States",.CA.us" tvg-logo="https://i.imgur.com/atBCo5C.png" radio="false",FOX
+#EXTINF:-1 group-title="🇺🇸 United States",FOX
 https://a1xs.vip/300014
-#EXTINF:-1 group-title="🇺🇸 United States",.CO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,CBS (KKTV)
+#EXTINF:-1 group-title="🇺🇸 United States",CBS (KKTV)
 https://tinyurl.com/cbskktv24
-#EXTINF:-1 group-title="🇺🇸 United States",.FL.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/CBS.png" ,CBS USA
+#EXTINF:-1 group-title="🇺🇸 United States",CBS USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium52%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.FL.us" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/FOX.png" ,FOX USA
+#EXTINF:-1 group-title="🇺🇸 United States",FOX USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium54%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.GA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-butterscotch-us.png?raw=true" ,ABC USA
+#EXTINF:-1 group-title="🇺🇸 United States",ABC USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium51%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true",CW (KYOU)
+#EXTINF:-1 group-title="🇺🇸 United States",CW (KYOU)
 https://cvtv.cvalley.net/hls/KYOUDT4/KYOUDT4.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (KYOU)
+#EXTINF:-1 group-title="🇺🇸 United States",FOX (KYOU)
 https://cvtv.cvalley.net/hls/KYOUFOX/KYOUFOX.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.IA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (KYOU)
+#EXTINF:-1 group-title="🇺🇸 United States",NBC (KYOU)
 https://cvtv.cvalley.net/hls/KYOUNBC2/KYOUNBC2.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.IL.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" ,NBC USA
+#EXTINF:-1 group-title="🇺🇸 United States",NBC USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fwindnew.newkso.ru%2Fwind%2Fpremium53%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.MN.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true" ,CW USA
+#EXTINF:-1 group-title="🇺🇸 United States",CW USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium300%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (KMIZ)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC (KMIZ)
 https://cvtv.cvalley.net/hls/KMIZABC/KMIZABC.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (KTVO)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC (KTVO)
 https://cvtv.cvalley.net/hls/KTVOABC/KTVOABC.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",CBS (KRCG)
+#EXTINF:-1 group-title="🇺🇸 United States",CBS (KRCG)
 https://cvtv.cvalley.net/hls/KRCGCBS/KRCGCBS.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",CBS (KSMO)
+#EXTINF:-1 group-title="🇺🇸 United States",CBS (KSMO)
 https://cvtv.cvalley.net/hls/KSMOIND/KSMOIND.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true",CBS (KTVO)
+#EXTINF:-1 group-title="🇺🇸 United States",CBS (KTVO)
 https://cvtv.cvalley.net/hls/KTVOCBS/KTVOCBS.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cw-us.png?raw=true",CW (KOMU)
+#EXTINF:-1 group-title="🇺🇸 United States",CW (KOMU)
 https://cvtv.cvalley.net/hls/KOMUCW/KOMUCW.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (KQFX)
+#EXTINF:-1 group-title="🇺🇸 United States",FOX (KQFX)
 https://cvtv.cvalley.net/hls/KQFXFOX/KQFXFOX.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (WDAF)
+#EXTINF:-1 group-title="🇺🇸 United States",FOX (WDAF)
 https://cvtv.cvalley.net/hls/WDAFFox/WDAFFox.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (KOMU)
+#EXTINF:-1 group-title="🇺🇸 United States",NBC (KOMU)
 https://cvtv.cvalley.net/hls/KOMUNBC/KOMUNBC.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.MO.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (KSHB)
+#EXTINF:-1 group-title="🇺🇸 United States",NBC (KSHB)
 https://cvtv.cvalley.net/hls/KSHBNBC/KSHBNBC.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us " tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" ,NBCNY USA
+#EXTINF:-1 group-title="🇺🇸 United States",NBCNY USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium769%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-name="CBS",CBS (WCBS) 2 [SD]
+#EXTINF:-1 group-title="🇺🇸 United States",CBS (WCBS) 2 [SD]
 http://143.244.60.30/CBSEAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WABC)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC (WABC)
 http://143.244.60.30/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true" ,ABC (WABC)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC (WABC)
 https://ft.fbcdntv247.cfd/memfs/196a3d53-fe48-484c-b267-f3f326f8c9e7_output_0.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-butterscotch-us.png?raw=true" ,ABCNY USA
+#EXTINF:-1 group-title="🇺🇸 United States",ABCNY USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium766%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,CBS
+#EXTINF:-1 group-title="🇺🇸 United States",CBS
 https://ott.udptv.com/stream/fubo/cbs/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/cbs-logo-white-us.png?raw=true" ,CBS (WCBS)
+#EXTINF:-1 group-title="🇺🇸 United States",CBS (WCBS)
 https://ft.fbcdntv247.cfd/memfs/f52160c3-ffe2-4eea-9315-b47c57c06dad_output_0.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true" ,FOXNY USA
+#EXTINF:-1 group-title="🇺🇸 United States",FOXNY USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium768%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fox-us.png?raw=true",FOX (WNYW) 2
+#EXTINF:-1 group-title="🇺🇸 United States",FOX (WNYW) 2
 http://fl2.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/my-network-tv-us.png?raw=true" ,MY9TV USA
+#EXTINF:-1 group-title="🇺🇸 United States",MY9TV USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium654%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" radio="false",NBC
+#EXTINF:-1 group-title="🇺🇸 United States",NBC
 http://fl1.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true" tvg-name="NBC",NBC (WNBC) 2
+#EXTINF:-1 group-title="🇺🇸 United States",NBC (WNBC) 2
 http://143.244.60.30/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-flat-us.png?raw=true",NBC (WNBC)
+#EXTINF:-1 group-title="🇺🇸 United States",NBC (WNBC)
 http://fl2.moveonjoy.com/NBC_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/us-local/abc-7-kabc-us.png?raw=true" ,ABC (WABC)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC (WABC)
 https://ott.udptv.org/stream/udptvus/wabc/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://i.imgur.com/1gRfE1V.png" radio="false",CBS
+#EXTINF:-1 group-title="🇺🇸 United States",CBS
 https://a1xs.vip/300010
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://media.nbcnewyork.com/2024/08/WNBC_station_logo_dark_e73822.png?fit=280%2C58&quality=85&strip=all&w=193&h=40" ,NBC (WNBC)
+#EXTINF:-1 group-title="🇺🇸 United States",NBC (WNBC)
 https://ft.fbcdntv247.cfd/memfs/0f866e96-e1b8-481d-bd6d-64949cb9f34d_output_0.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" radio="false",FOX (WNYW)
+#EXTINF:-1 group-title="🇺🇸 United States",FOX (WNYW)
 http://fl1.moveonjoy.com/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/us-local/fox-5-wnyw-us.png" tvg-name="FOX (WNYW)",FOX (WNYW) 2
+#EXTINF:-1 group-title="🇺🇸 United States",FOX (WNYW) 2
 http://143.244.60.30/FOX_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-logo="https://static.foxtv.com/static/orion/img/core/s/logos/fts-new-york-a.svg" ,FOX (WNYW)
+#EXTINF:-1 group-title="🇺🇸 United States",FOX (WNYW)
 https://ft.fbcdntv247.cfd/memfs/868cfc8b-f31c-40b5-bc19-bb2f8434c869_output_0.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.NY.us" tvg-name="CBS NEWS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-states/cbs-news-us.png" ,CBS NEWS
+#EXTINF:-1 group-title="🇺🇸 United States",CBS NEWS
 http://fl1.moveonjoy.com/CBS_News/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.OH.us" tvg-logo="https://i.imgur.com/3BUnPYf.png" radio="false",NBC
+#EXTINF:-1 group-title="🇺🇸 United States",NBC
 https://a1xs.vip/300015
-#EXTINF:-1 group-title="🇺🇸 United States",.OH.us" tvg-logo="https://i.imgur.com/faIKUyq.png" radio="false",ABC
+#EXTINF:-1 group-title="🇺🇸 United States",ABC
 https://a1xs.vip/300003
-#EXTINF:-1 group-title="🇺🇸 United States",.ON.ca" tvg-logo="https://i.imgur.com/T2uS3V6.png" radio="false",CTV 2
+#EXTINF:-1 group-title="🇺🇸 United States",CTV 2
 https://a1xs.vip/610003
-#EXTINF:-1 group-title="🇺🇸 United States",.ON.ca" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/ctv-2-ca.png" radio="false",CTV2 Toronto
+#EXTINF:-1 group-title="🇺🇸 United States",CTV2 Toronto
 http://user.scalecdn.co:8080/live/26725074/92867131/93008.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WPVI)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC (WPVI)
 http://cord-cutter.net:8080/hq3y4G/234247/121149
-#EXTINF:-1 group-title="🇺🇸 United States",.PA.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" ,NBC10 Philadelphia
+#EXTINF:-1 group-title="🇺🇸 United States",NBC10 Philadelphia
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium277%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States",.SC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-1962-us.png?raw=true",ABC (WOLO)
+#EXTINF:-1 group-title="🇺🇸 United States",ABC (WOLO)
 http://fl3.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.SC.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/abc-logo-2013-aluminum-us.png?raw=true" radio="false",ABC 25 Columbia
+#EXTINF:-1 group-title="🇺🇸 United States",ABC 25 Columbia
 http://fl1.moveonjoy.com/ABC_EAST/index.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",.TX.us" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/unimas-us.png?raw=true" ,Unimas
+#EXTINF:-1 group-title="🇺🇸 United States",Unimas
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fnfsnew.newkso.ru%2Fnfs%2Fpremium133%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",0,140,207_.jpg" radio="false",Happy Gilmore (1996)
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",Happy Gilmore (1996)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Happy.Gilmore.1996.1080p.BluRay.H264.AAC-RARBG.mp4
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",0,190,281_.jpg" radio="false",Hostel: Part II (2007)
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",Hostel: Part II (2007)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Hostel.Part.II.2007.1080p.BluRay.x264.AAC5.1-%5BYTS.MX%5D.mp4
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",0,190,281_.jpg" radio="false",Showgirls (1995)
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",Showgirls (1995)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Showgirls.1995.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",0,190,281_.jpg" radio="false",The Day After Tomorrow (2004)
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",The Day After Tomorrow (2004)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Day.After.Tomorrow.2004.1080p.BluRay.DDP.5.1.H.265-EDGE2020.mkv
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://011fm.com/wp-content/uploads/2021/04/011trimmed-white.png" tvg-id="Radio.105.Dummy.us",011.FM - Hip Hop Hits
 https://streaming.live365.com/a37306
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",1,190,281_.jpg" radio="false",Next Friday (2000)
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",Next Friday (2000)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Next.Friday.2000.1080p.BluRay.x264.YIFY.mp4
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",1,190,281_.jpg" radio="false",The Babe (1992)
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",The Babe (1992)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/The.Babe.1992.1080p.BluRay.x264.AAC-%5BYTS.MX%5D.mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://images.radio.com/independent/logos/100hiphopandrnbfm.jpg" tvg-id="Radio.105.Dummy.us",100 Hip Hop and RNB FM
 https://ice64.securenetsystems.net/LFTM
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://images.radio.com/aud-opsconsole-media-images-prod-prod/PHI-WRNBHD2_121622-1671467410227.jpg" tvg-id="Radio.105.Dummy.us",100.3 2 RB and Hip Hop
 https://playerservices.streamtheworld.com/api/livestream-redirect/WRNBHD2AAC.aac
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",1000_QL80_.jpg" radio="false",Yu Yu Hakusho The Movie: Poltergeist Report (1994)
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Movie.Dummy.us",Yu Yu Hakusho The Movie: Poltergeist Report (1994)
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Yu%20Yu%20Hakusho/Movies/%5BAnime%20Time%5D%20Yuu%20Yuu%20Hakusho%20-%20Poltergeist%20Report.mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://100hitz.com/wp-content/uploads/2023/03/100hitz.com-png-08-e1678043645250.png" tvg-id="Radio.105.Dummy.us",100Hitz - Hip Hop
 https://pureplay.cdnstream1.com/6042_64.aac/playlist.m3u8
@@ -7639,7 +7639,7 @@ https://jmp2.uk/sam-US18000133I.m3u8
 https://ott.udptv.com/stream/nbc/ewest/master.m3u8?u=discord.gg/civ3&p=fb3f8f99693741cbbfd578e30b02b25f056a1f0838491f6e186eb1340e3f2c13
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20240520T222852SQUARE.png" tvg-id="USBD2500012DH",EBONY TV by Lionsgate
 https://jmp2.uk/sam-USBD2500012DH.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",Edd n Eddy's Big Picture Show (2009)" tvg-id="Movie.Dummy.us" tvg-logo="https://m.media-amazon.com/images/M/MV5BYTMxZTViMmQtOWU0Yi00YmUyLTk5YTAtMzA5NDM1NTY3ZDRhXkEyXkFqcGc@._V1_.jpg" radio="false",Edd n Eddy's Big Picture Show (2009)
+#EXTINF:-1 group-title="🇺🇸 United States",Edd n Eddy's Big Picture Show (2009)
 http://drewlive24.duckdns.org:9000/Adult%20Swim.Toonami%2C%20%26%20Cartoon%20Network%20Shows/Ed%2C%20Edd%20n%20Eddy%20(1999)/Movies/Ed%2C%20Edd%20n%20Eddy%20-%20S00%20E05%20-%20Ed%2C%20Edd%20n%20Eddy's%20Big%20Picture%20Show%20(1080p).mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://m.media-amazon.com/images/M/MV5BMTc5OTk4MTM3M15BMl5BanBnXkFtZTgwODcxNjg3MDE@._V1_FMjpg_UX1000_.jpg" tvg-id="Movie.Dummy.us",Edge of Tomorrow (2014)
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Edge.of.Tomorrow.2014.1080p.BluRay.x264.YIFY.mp4
@@ -8199,7 +8199,7 @@ http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2F
 https://jmp2.uk/sam-USAK3508724A.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://provider-static.plex.tv/d/epg/channels/logos/gracenote/dab1a7cb1336ecbd21e804d506b3ba61.png" tvg-id="5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9",GUSTOTV
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f8746eabd529300418246d9.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Radio.105.Dummy.us",h_134,al_c,q_85,usm_0.66_1.00_0.01,enc_avif,quality_auto/927kzjm-new-logo.png" radio="true",92.7 FM Jam Central
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Radio.105.Dummy.us",92.7 FM Jam Central
 https://ice42.securenetsystems.net/KZJM
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD4200011W4_20240709T002126SQUARE.png" tvg-id="USBD4200011W4",Hagerty
 https://jmp2.uk/sam-USBD4200011W4.m3u8
@@ -8643,7 +8643,7 @@ http://drewlive24.duckdns.org:4042/tubi/watch/618766
 https://live.amperwave.net/manifest/townsquare-kzbtfmaac-hlsc3.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://cdn.socast.io/9069/sites/6/2024/12/05130114/OFFICIAL-KZWA-LOGO-150x74.jpeg" tvg-id="Radio.105.Dummy.us",KZWA 104.9 FM
 https://playerservices.streamtheworld.com/api/livestream-redirect/KZWAFM.mp3?dist=onlineradiobox
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Radio.105.Dummy.us",l:0%25,w:100%25,h:100%25" radio="true",Indie X FM
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Radio.105.Dummy.us",Indie X FM
 https://kathy.torontocast.com:2695/stream
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" tvg-id="Golf.Dummy.us",Ladies European Tour Armundi German Masters - Sky Sports Mix UK
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fddy6new.newkso.ru%2Fddy6%2Fpremium449%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
@@ -9693,7 +9693,7 @@ https://jmp2.uk/sam-USBB520002604.m3u8
 https://jmp2.uk/sam-US350000231.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US400001M2_20250211T021716SQUARE.png" tvg-id="US400001M2",PGA Tour
 https://jmp2.uk/sam-US400001M2.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" tvg-id="Golf.Dummy.us",PGA Tour Golf Rocket Classic, Final Round - CBSNY USA
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" tvg-id="Golf.Dummy.us",Final Round - CBSNY USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium767%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMA%3D%3D
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="http://drewlive24.duckdns.org:9000/Logos/Golf.png" tvg-id="Golf.Dummy.us",PGA Tour Rocket Mortgage Classic - GOLF Channel USA
 http://drewlive24.duckdns.org:4123?url=https%3A%2F%2Fzekonew.newkso.ru%2Fzeko%2Fpremium318%2Fmono.m3u8&data=T3JpZ2luPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5enxSZWZlcmVyPWh0dHBzOi8vZm9yY2VkdG9wbGF5Lnh5ei98VXNlci1hZ2VudD1Nb3ppbGxhLzUuMCAoV2luZG93cyBOVCAxMC4wOyBXaW42NDsgeDY0OyBydjoxMzkuMCkgR2Vja28vMjAxMDAxMDEgRmlyZWZveC8xMzkuMHxPcmlnaW49aHR0cHM6Ly9mb3JjZWR0b3BsYXkueHl6fFJlZmVyZXI9aHR0cHM6Ly9mb3JjZWR0b3BsYXkueHl6L3xVc2VyLWFnZW50PU1vemlsbGEvNS4wIChXaW5kb3dzIE5UIDEwLjA7IFdpbjY0OyB4NjQ7IHJ2OjEzOS4wKSBHZWNrby8yMDEwMDEwMSBGaXJlZm94LzEzOS4wfE9yaWdpbj1odHRwczovL2ZvcmNlZHRvcGxheS54eXp8UmVmZXJlcj1odHRwczovL2ZvcmNlZHRvcGxheS54eXovfFVzZXItYWdlbnQ9TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgMTAuMDsgV2luNjQ7IHg2NDsgcnY6MTM5LjApIEdlY2tvLzIwMTAwMTAxIEZpcmVmb3gvMTM5LjA%3D
@@ -9951,7 +9951,7 @@ https://jmp2.uk/sam-USBC1000004G8.m3u8
 http://drewlive24.duckdns.org:9000/DrewLiveVODMovie/Shark.Tale.2004.1080p.BluRay.H264.AAC-RARBG.mp4
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US2200006FS_20240924T011019SQUARE.png" tvg-id="US2200006FS",Shaun the Sheep
 https://jmp2.uk/sam-US2200006FS.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States",She Wrote" tvg-id="US1800001D1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800001D1_20240826T235546SQUARE.png" tvg-chno="1813" ,She Wrote
+#EXTINF:-1 group-title="🇺🇸 United States",She Wrote
 https://jmp2.uk/sam-US1800001D1.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD1200021JM_20250304T041448SQUARE.png" tvg-id="USBD1200021JM",Shout! TV
 https://jmp2.uk/sam-USBD1200021JM.m3u8
@@ -11013,7 +11013,7 @@ https://jmp2.uk/sam-USBC2100008DP.m3u8
 https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-5f74cf7effbe690040689f3e.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAK3508706A_20250325T015040SQUARE.png" tvg-id="USAK3508706A",Xtreme Outdoor Presented by HISTORY
 https://jmp2.uk/sam-USAK3508706A.m3u8
-#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Radio.105.Dummy.us",y_1060,w_5001,h_2827/fill/w_368,h_208,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/Smooth%20Jazz_Light%20Blue_Registered-01.png" radio="true",Smooth Jazz Network
+#EXTINF:-1 group-title="🇺🇸 United States" tvg-id="Radio.105.Dummy.us",Smooth Jazz Network
 https://stream.revma.ihrhls.com/zc8170/hls.m3u8
 #EXTINF:-1 group-title="🇺🇸 United States" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ4300005PJ_20250325T020257SQUARE.png" tvg-id="USAJ4300005PJ",Yahoo Finance
 https://jmp2.uk/sam-USAJ4300005PJ.m3u8
