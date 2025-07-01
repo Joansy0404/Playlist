@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-name="Are We There Yet" tvg-logo="https://canvas-lb.tubitv.com/opts/dT2X-M7b4_XRcw==/620cc48a-a6d9-439e-8b38-f857a4ab2630/CHgQeDoFMS4xLjZAAQ==" tvg-id="682057" group-title="🇦🇷 Argentina",Are We There Yet
 http://drewlive24.duckdns.org:4042/tubi/watch/682057
-#EXTINF:-1 tvg-name="Are We There Yet?" tvg-logo="https://provider-static.plex.tv/epg/cms/production/138a25f8-6dfb-4a03-bbec-acaa84628fcd/awty-logo-2.png" tvg-id="5e20b730f2f8d5003d739db7-612919784f53e1002c9aa219" group-title="🇦🇷 Argentina",Are We There Yet?
-https://epg.provider.plex.tv/library/parts/5e20b730f2f8d5003d739db7-612919784f53e1002c9aa219.m3u8?X-Plex-Token=RzgvtzLKLMWEJWtrNSfc
 #EXTINF:-1 tvg-name="Are We There Yet?" tvg-logo="https://images.pluto.tv/channels/65cf8b9328730900087c5324/colorLogoPNG.png" tvg-id="65cf8b9328730900087c5324" group-title="🇦🇷 Argentina",Are We There Yet?
 https://jmp2.uk/plu-65cf8b9328730900087c5324.m3u8
 #EXTINF:-1 tvg-name="Arirang" tvg-logo="https://i.imgur.com/2NYcYrg.png" tvg-id="ArirangTV(src01).kr" group-title="🇦🇷 Argentina",Arirang
